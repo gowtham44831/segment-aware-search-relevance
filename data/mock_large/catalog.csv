@@ -1,0 +1,629 @@
+product_id,title,description,category,brand,price,rating,review_count,fits
+CASE-IP15-SIL,Apple iPhone 15 Silicone Case with MagSafe,"Official Apple silicone case for iPhone 15, soft microfiber lining, MagSafe compatible.",phone_case,Apple,49.0,4.7,12000,iphone15
+CASE-IP15-CLR,Spigen Ultra Hybrid Clear Case for iPhone 15,Crystal clear protective phone case for iPhone 15 with air cushion corners.,phone_case,Spigen,15.99,4.6,45000,iphone15
+CASE-IP15-BUD,"Slim TPU Case for iPhone 15, 2 Pack","Thin flexible clear phone case for iPhone 15, two pack, budget.",phone_case,Generic,6.99,4.1,3100,iphone15
+CASE-IP15PM-CLR,Clear Case for iPhone 15 Pro Max,Shockproof clear phone case for iPhone 15 Pro Max 6.7 inch.,phone_case,ESR,13.99,4.5,9000,iphone15promax
+CASE-IP14-OTB,OtterBox Defender Series Case for iPhone 14,Rugged multi-layer phone case for iPhone 14 with holster.,phone_case,OtterBox,54.95,4.7,21000,iphone14
+CASE-IP14-BUD,Shockproof Clear Case for iPhone 14,"Affordable clear phone case for iPhone 14, anti-yellowing.",phone_case,Generic,7.49,4.2,5200,iphone14
+CASE-S24-SIL,Samsung Galaxy S24 Silicone Case,"Official Samsung silicone phone case for Galaxy S24, soft touch.",phone_case,Samsung,29.99,4.6,6400,galaxys24
+CASE-S24-CLR,Spigen Liquid Air Case for Galaxy S24,Matte black slim phone case for Samsung Galaxy S24.,phone_case,Spigen,12.99,4.7,18000,galaxys24
+CASE-S24-BUD,"Clear TPU Case for Galaxy S24, 2 Pack","Budget clear phone case for Samsung Galaxy S24, two pack.",phone_case,Generic,5.99,4.0,1900,galaxys24
+CASE-S23-OTB,OtterBox Commuter Case for Galaxy S23,Slim protective phone case for Samsung Galaxy S23.,phone_case,OtterBox,39.95,4.6,7700,galaxys23
+CASE-PX8-CLR,Clear Case for Google Pixel 8,Slim clear phone case for Pixel 8 with raised camera lip.,phone_case,Spigen,11.99,4.5,4300,pixel8
+CASE-UNI-POUCH,Universal Waterproof Phone Pouch,"Waterproof phone pouch bag fits any phone up to 7 inch, for beach and swimming.",phone_case,Generic,8.99,4.3,26000,any
+CASE-IPAD-10,Case for iPad 10th Generation,Trifold stand tablet case for iPad 10th gen 10.9 inch.,tablet_case,ESR,19.99,4.6,14000,ipad10
+CHARM-CASE,Phone Case Charm Keychain,Cute beaded phone case charm strap and keychain lanyard.,phone_charm,Generic,4.99,4.4,800,any
+CHG-APL-20W,Apple 20W USB-C Power Adapter,"Official Apple fast charger wall plug, USB-C power adapter.",charger,Apple,19.0,4.8,90000,any
+CHG-ANK-65W,"Anker 65W GaN Charger, 3 Port",Compact fast charger with 2 USB-C and 1 USB-A ports for phone and laptop.,charger,Anker,45.99,4.7,30000,any
+CHG-SAM-45W,Samsung 45W Super Fast Charger,Samsung super fast charging 2.0 USB-C wall charger for Galaxy S24 Ultra.,charger,Samsung,34.99,4.7,15000,galaxys24;galaxys23
+CHG-SAM-25W,Samsung 25W USB-C Fast Charger,Samsung super fast charging wall charger for Galaxy phones.,charger,Samsung,14.99,4.7,52000,galaxys24;galaxys23
+CHG-GEN-20W,"20W USB-C Fast Charger, 2 Pack","Budget USB-C fast charger wall plug block, two pack.",charger,Generic,9.99,4.3,11000,any
+CHG-MAG-APL,Apple MagSafe Charger 1m,"Magnetic wireless charger for iPhone 12 and later, MagSafe.",wireless_charger,Apple,39.0,4.6,40000,iphone15;iphone14;iphone15promax
+CHG-MAG-BEL,Belkin 3-in-1 MagSafe Charging Stand,"Wireless charging stand for iPhone, Apple Watch and AirPods.",wireless_charger,Belkin,129.99,4.5,8000,iphone15;iphone14;iphone15promax
+CHG-QI-GEN,15W Qi Wireless Charging Pad,"Universal Qi wireless charger pad for iPhone, Galaxy and Pixel.",wireless_charger,Generic,13.99,4.2,9500,any
+CHG-SAM-WL,Samsung Wireless Charger Duo,Samsung wireless charging pad for Galaxy phone and Galaxy Watch.,wireless_charger,Samsung,59.99,4.5,6100,galaxys24;galaxys23
+CBL-C2L-APL,Apple USB-C to Lightning Cable 1m,Official Apple charging cable for iPhone 14 and earlier with Lightning port.,cable,Apple,19.0,4.7,38000,iphone14
+CBL-C2C-APL,Apple 240W USB-C Charge Cable 2m,"Apple woven USB-C to USB-C cable for iPhone 15, iPad and Mac.",cable,Apple,29.0,4.7,9000,any
+CBL-C2C-ANK,"Anker USB-C to USB-C Cable 6ft, 2 Pack","Durable fast charging USB-C cable for Galaxy, Pixel and iPhone 15.",cable,Anker,12.99,4.8,60000,any
+CBL-C2L-GEN,Lightning Cable 3 Pack 6ft,"Budget iPhone charger cable, Lightning, three pack.",cable,Generic,8.99,4.2,22000,iphone14
+CBL-C2C-SAM,Samsung 5A USB-C Cable 1m,Samsung USB-C to USB-C cable for 45W super fast charging.,cable,Samsung,14.99,4.6,7000,any
+CBL-MICRO-GEN,Micro USB Cable 3 Pack,Micro USB charging cable for older Android phones and speakers.,cable,Generic,6.99,4.3,15000,legacy
+SCR-IP15-GLS,"Tempered Glass Screen Protector for iPhone 15, 3 Pack",9H tempered glass screen protector for iPhone 15 with install frame.,screen_protector,Generic,8.99,4.5,33000,iphone15
+SCR-IP15-PRV,Privacy Screen Protector for iPhone 15,Anti-spy privacy tempered glass for iPhone 15.,screen_protector,ZAGG,24.99,4.3,5000,iphone15
+SCR-IP14-GLS,"Screen Protector for iPhone 14, 3 Pack",Tempered glass screen protector for iPhone 14.,screen_protector,Generic,7.99,4.5,28000,iphone14
+SCR-S24-GLS,Tempered Glass Screen Protector for Galaxy S24,"Screen protector for Samsung Galaxy S24, fingerprint unlock compatible.",screen_protector,Generic,9.99,4.4,12000,galaxys24
+SCR-S24-FLM,Samsung Anti-Reflecting Film for Galaxy S24,Official Samsung screen protector film for Galaxy S24.,screen_protector,Samsung,19.99,4.2,2100,galaxys24
+SCR-PX8-GLS,"Screen Protector for Pixel 8, 2 Pack",Tempered glass screen protector for Google Pixel 8.,screen_protector,Generic,8.99,4.4,6000,pixel8
+AUD-APP-PRO2,Apple AirPods Pro 2 with USB-C,"Wireless earbuds with active noise cancellation, made for iPhone.",earbuds,Apple,249.0,4.7,110000,any
+AUD-APP-4,Apple AirPods 4,Wireless earbuds with personalized spatial audio for iPhone.,earbuds,Apple,129.0,4.5,20000,any
+AUD-SAM-BUD3P,Samsung Galaxy Buds3 Pro,"Wireless earbuds with noise cancelling, best with Galaxy phones.",earbuds,Samsung,249.99,4.4,6000,any
+AUD-SAM-FE,Samsung Galaxy Buds FE,Affordable wireless earbuds with ANC for Galaxy.,earbuds,Samsung,99.99,4.4,14000,any
+AUD-SNY-XM5,Sony WF-1000XM5 Wireless Earbuds,"Premium noise cancelling wireless earbuds, works with iPhone and Android.",earbuds,Sony,299.99,4.4,9000,any
+AUD-SDC-LIB,Soundcore Liberty 4 NC Wireless Earbuds,Noise cancelling wireless earbuds with long battery life.,earbuds,Anker,79.99,4.4,35000,any
+AUD-GEN-BUD,Wireless Earbuds Bluetooth 5.3,Budget wireless earbuds with charging case and mic.,earbuds,Generic,18.99,4.2,47000,any
+PWR-ANK-10K,Anker Power Bank 10000mAh,"Portable charger battery pack with USB-C, slim.",power_bank,Anker,25.99,4.6,70000,any
+PWR-MAG-ANK,Anker MagGo Magnetic Power Bank,"Magnetic wireless portable charger for iPhone, MagSafe.",power_bank,Anker,69.99,4.4,9000,iphone15;iphone14;iphone15promax
+PWR-SAM-10K,Samsung 10000mAh 25W Battery Pack,Samsung super fast charging portable battery for Galaxy.,power_bank,Samsung,39.99,4.5,5000,any
+PWR-GEN-20K,20000mAh Portable Charger Power Bank,Budget high capacity power bank with 2 USB outputs.,power_bank,Generic,17.99,4.3,25000,any
+WAT-AW-SPT,Apple Watch Sport Band 45mm,Official Apple fluoroelastomer sport band for Apple Watch.,watch_band,Apple,49.0,4.7,15000,applewatch
+WAT-AW-GEN,"Nylon Bands for Apple Watch, 3 Pack",Budget nylon sport loop bands compatible with Apple Watch.,watch_band,Generic,11.99,4.4,30000,applewatch
+WAT-GW-SPT,Samsung Galaxy Watch Sport Band 20mm,Official Samsung sport band for Galaxy Watch 6 and 7.,watch_band,Samsung,24.99,4.5,3000,galaxywatch
+WAT-GW-GEN,"Silicone Bands for Galaxy Watch, 3 Pack",Budget 20mm bands compatible with Samsung Galaxy Watch.,watch_band,Generic,9.99,4.4,11000,galaxywatch
+CAR-MAG-ESR,ESR MagSafe Car Mount,Magnetic car vent phone mount for iPhone MagSafe.,car_mount,ESR,29.99,4.5,16000,iphone15;iphone14;iphone15promax
+CAR-UNI-VNT,Universal Car Vent Phone Mount,Adjustable clamp car phone holder fits any phone.,car_mount,Generic,10.99,4.3,41000,any
+CAR-WL-AUT,"Wireless Charging Car Mount, Auto Clamp",15W Qi wireless charging car phone mount for iPhone and Galaxy.,car_mount,Generic,34.99,4.2,12000,any
+GRP-POP-MAG,PopSockets MagSafe PopGrip,Magnetic phone grip and stand for iPhone MagSafe.,phone_grip,PopSockets,29.99,4.5,20000,iphone15;iphone14;iphone15promax
+GRP-POP-STD,PopSockets PopGrip,Adhesive phone grip and stand for any phone.,phone_grip,PopSockets,12.99,4.7,150000,any
+STD-UNI-ADJ,Adjustable Phone Stand for Desk,Aluminum cell phone stand holder for any phone.,phone_stand,Generic,11.99,4.6,33000,any
+PHN-SAM-A15,Samsung Galaxy A15 Unlocked Phone,"Budget Android cell phone, 128GB, unlocked.",phone,Samsung,199.99,4.3,4000,self
+G0001,Spigen Clear Case for iPhone 13,"Crystal clear protective phone case, anti-yellowing for iPhone 13.",phone_case,Spigen,21.99,4.3,1541,iphone13
+G0002,Caseology Clear Case for iPhone 13,"Crystal clear protective phone case, anti-yellowing for iPhone 13.",phone_case,Caseology,19.99,4.5,1540,iphone13
+G0003,Generic Clear Case for iPhone 13,"Crystal clear protective phone case, anti-yellowing for iPhone 13.",phone_case,Generic,7.99,4.0,2839,iphone13
+G0004,Apple Clear Case for iPhone 13 with MagSafe,"Crystal clear protective phone case, anti-yellowing for iPhone 13. MagSafe compatible.",phone_case,Apple,42.99,4.6,8925,iphone13
+G0005,Belkin Silicone Case for iPhone 13 with MagSafe,Soft silicone phone case with microfiber lining for iPhone 13. MagSafe compatible.,phone_case,Belkin,17.99,4.9,32742,iphone13
+G0006,Speck Silicone Case for iPhone 13,Soft silicone phone case with microfiber lining for iPhone 13.,phone_case,Speck,15.99,4.4,5232,iphone13
+G0007,Zeta Silicone Case for iPhone 13 with MagSafe,Soft silicone phone case with microfiber lining for iPhone 13. MagSafe compatible.,phone_case,Zeta,6.99,4.1,206,iphone13
+G0008,Apple Silicone Case for iPhone 13,Soft silicone phone case with microfiber lining for iPhone 13.,phone_case,Apple,47.99,4.6,7222,iphone13
+G0009,Belkin Rugged Case for iPhone 13 with MagSafe,"Rugged shockproof phone case, military grade drop protection for iPhone 13. MagSafe compatible.",phone_case,Belkin,31.99,4.7,676,iphone13
+G0010,Caseology Rugged Case for iPhone 13 with MagSafe,"Rugged shockproof phone case, military grade drop protection for iPhone 13. MagSafe compatible.",phone_case,Caseology,20.99,4.6,672,iphone13
+G0011,Zeta Rugged Case for iPhone 13,"Rugged shockproof phone case, military grade drop protection for iPhone 13.",phone_case,Zeta,8.99,4.3,3995,iphone13
+G0012,OtterBox Rugged Case for iPhone 13,"Rugged shockproof phone case, military grade drop protection for iPhone 13.",phone_case,OtterBox,49.99,4.2,3097,iphone13
+G0013,Anker Wallet Case for iPhone 13,Leather wallet phone case with card holder for iPhone 13.,phone_case,Anker,28.99,4.4,2350,iphone13
+G0014,ESR Wallet Case for iPhone 13 with MagSafe,Leather wallet phone case with card holder for iPhone 13. MagSafe compatible.,phone_case,ESR,17.99,4.7,32279,iphone13
+G0015,Lumo Wallet Case for iPhone 13,Leather wallet phone case with card holder for iPhone 13.,phone_case,Lumo,12.99,4.3,814,iphone13
+G0016,Anker Slim Case for iPhone 13,Ultra thin slim fit phone case for iPhone 13.,phone_case,Anker,13.99,4.3,34372,iphone13
+G0017,Caseology Slim Case for iPhone 13 with MagSafe,Ultra thin slim fit phone case for iPhone 13. MagSafe compatible.,phone_case,Caseology,11.99,4.5,2348,iphone13
+G0018,Brio Slim Case for iPhone 13 with MagSafe,Ultra thin slim fit phone case for iPhone 13. MagSafe compatible.,phone_case,Brio,8.99,4.4,2519,iphone13
+G0019,Anker Leather Case for iPhone 13 with MagSafe,Genuine leather phone case for iPhone 13. MagSafe compatible.,phone_case,Anker,24.99,4.7,866,iphone13
+G0020,Speck Leather Case for iPhone 13 with MagSafe,Genuine leather phone case for iPhone 13. MagSafe compatible.,phone_case,Speck,24.99,4.2,10428,iphone13
+G0021,Brio Leather Case for iPhone 13 with MagSafe,Genuine leather phone case for iPhone 13. MagSafe compatible.,phone_case,Brio,9.99,4.3,2830,iphone13
+G0022,Apple Leather Case for iPhone 13,Genuine leather phone case for iPhone 13.,phone_case,Apple,46.99,4.7,6632,iphone13
+G0023,"Lumo Tempered Glass Screen Protector for iPhone 13, 3 Pack",9h tempered glass screen protector for iPhone 13.,screen_protector,Lumo,4.99,4.0,4008,iphone13
+G0024,Speck Tempered Glass Screen Protector for iPhone 13,9h tempered glass screen protector for iPhone 13.,screen_protector,Speck,10.99,4.4,5458,iphone13
+G0025,"Brio Privacy Screen Protector for iPhone 13, 3 Pack",Anti-spy privacy tempered glass for iPhone 13.,screen_protector,Brio,6.99,4.2,7709,iphone13
+G0026,ESR Privacy Screen Protector for iPhone 13,Anti-spy privacy tempered glass for iPhone 13.,screen_protector,ESR,15.99,4.5,4494,iphone13
+G0027,"Lumo Camera Lens Protector for iPhone 13, 3 Pack",Camera lens protector glass for iPhone 13.,screen_protector,Lumo,3.99,4.2,785,iphone13
+G0028,ESR Camera Lens Protector for iPhone 13,Camera lens protector glass for iPhone 13.,screen_protector,ESR,7.99,4.5,1933,iphone13
+G0029,Spigen Clear Case for iPhone 14,"Crystal clear protective phone case, anti-yellowing for iPhone 14.",phone_case,Spigen,21.99,4.4,3056,iphone14
+G0030,Caseology Clear Case for iPhone 14 with MagSafe,"Crystal clear protective phone case, anti-yellowing for iPhone 14. MagSafe compatible.",phone_case,Caseology,17.99,4.4,2314,iphone14
+G0031,Brio Clear Case for iPhone 14 with MagSafe,"Crystal clear protective phone case, anti-yellowing for iPhone 14. MagSafe compatible.",phone_case,Brio,8.99,4.2,2429,iphone14
+G0032,Apple Clear Case for iPhone 14 with MagSafe,"Crystal clear protective phone case, anti-yellowing for iPhone 14. MagSafe compatible.",phone_case,Apple,33.99,4.5,12044,iphone14
+G0033,ESR Silicone Case for iPhone 14,Soft silicone phone case with microfiber lining for iPhone 14.,phone_case,ESR,16.99,4.5,12051,iphone14
+G0034,Speck Silicone Case for iPhone 14,Soft silicone phone case with microfiber lining for iPhone 14.,phone_case,Speck,13.99,4.5,4990,iphone14
+G0035,Generic Silicone Case for iPhone 14,Soft silicone phone case with microfiber lining for iPhone 14.,phone_case,Generic,5.99,4.2,178,iphone14
+G0036,Apple Silicone Case for iPhone 14 with MagSafe,Soft silicone phone case with microfiber lining for iPhone 14. MagSafe compatible.,phone_case,Apple,48.99,4.4,11140,iphone14
+G0037,ESR Rugged Case for iPhone 14 with MagSafe,"Rugged shockproof phone case, military grade drop protection for iPhone 14. MagSafe compatible.",phone_case,ESR,20.99,4.7,4530,iphone14
+G0038,Belkin Rugged Case for iPhone 14 with MagSafe,"Rugged shockproof phone case, military grade drop protection for iPhone 14. MagSafe compatible.",phone_case,Belkin,21.99,4.6,56228,iphone14
+G0039,Lumo Rugged Case for iPhone 14 with MagSafe,"Rugged shockproof phone case, military grade drop protection for iPhone 14. MagSafe compatible.",phone_case,Lumo,7.99,4.1,310,iphone14
+G0040,OtterBox Rugged Case for iPhone 14 with MagSafe,"Rugged shockproof phone case, military grade drop protection for iPhone 14. MagSafe compatible.",phone_case,OtterBox,66.99,4.5,408,iphone14
+G0041,ESR Wallet Case for iPhone 14,Leather wallet phone case with card holder for iPhone 14.,phone_case,ESR,14.99,4.4,16856,iphone14
+G0042,Anker Wallet Case for iPhone 14 with MagSafe,Leather wallet phone case with card holder for iPhone 14. MagSafe compatible.,phone_case,Anker,30.99,4.3,9082,iphone14
+G0043,Lumo Wallet Case for iPhone 14 with MagSafe,Leather wallet phone case with card holder for iPhone 14. MagSafe compatible.,phone_case,Lumo,9.99,4.3,1621,iphone14
+G0044,Speck Slim Case for iPhone 14 with MagSafe,Ultra thin slim fit phone case for iPhone 14. MagSafe compatible.,phone_case,Speck,21.99,4.3,4700,iphone14
+G0045,Caseology Slim Case for iPhone 14 with MagSafe,Ultra thin slim fit phone case for iPhone 14. MagSafe compatible.,phone_case,Caseology,15.99,4.4,10230,iphone14
+G0046,Brio Slim Case for iPhone 14 with MagSafe,Ultra thin slim fit phone case for iPhone 14. MagSafe compatible.,phone_case,Brio,8.99,4.3,3527,iphone14
+G0047,Caseology Leather Case for iPhone 14,Genuine leather phone case for iPhone 14.,phone_case,Caseology,21.99,4.5,1441,iphone14
+G0048,Speck Leather Case for iPhone 14 with MagSafe,Genuine leather phone case for iPhone 14. MagSafe compatible.,phone_case,Speck,20.99,4.7,16480,iphone14
+G0049,Lumo Leather Case for iPhone 14 with MagSafe,Genuine leather phone case for iPhone 14. MagSafe compatible.,phone_case,Lumo,8.99,4.1,1420,iphone14
+G0050,Apple Leather Case for iPhone 14 with MagSafe,Genuine leather phone case for iPhone 14. MagSafe compatible.,phone_case,Apple,63.99,4.7,13524,iphone14
+G0051,"Brio Tempered Glass Screen Protector for iPhone 14, 3 Pack",9h tempered glass screen protector for iPhone 14.,screen_protector,Brio,4.99,4.2,530,iphone14
+G0052,ESR Tempered Glass Screen Protector for iPhone 14,9h tempered glass screen protector for iPhone 14.,screen_protector,ESR,12.99,4.4,3590,iphone14
+G0053,"Zeta Privacy Screen Protector for iPhone 14, 3 Pack",Anti-spy privacy tempered glass for iPhone 14.,screen_protector,Zeta,6.99,4.1,3273,iphone14
+G0054,Caseology Privacy Screen Protector for iPhone 14,Anti-spy privacy tempered glass for iPhone 14.,screen_protector,Caseology,14.99,4.4,6527,iphone14
+G0055,"Zeta Camera Lens Protector for iPhone 14, 3 Pack",Camera lens protector glass for iPhone 14.,screen_protector,Zeta,3.99,4.1,1974,iphone14
+G0056,Speck Camera Lens Protector for iPhone 14,Camera lens protector glass for iPhone 14.,screen_protector,Speck,8.99,4.6,11911,iphone14
+G0057,Caseology Clear Case for iPhone 15,"Crystal clear protective phone case, anti-yellowing for iPhone 15.",phone_case,Caseology,15.99,4.2,12754,iphone15
+G0058,Belkin Clear Case for iPhone 15 with MagSafe,"Crystal clear protective phone case, anti-yellowing for iPhone 15. MagSafe compatible.",phone_case,Belkin,16.99,4.0,11060,iphone15
+G0059,Brio Clear Case for iPhone 15,"Crystal clear protective phone case, anti-yellowing for iPhone 15.",phone_case,Brio,6.99,3.8,637,iphone15
+G0060,Apple Clear Case for iPhone 15 with MagSafe,"Crystal clear protective phone case, anti-yellowing for iPhone 15. MagSafe compatible.",phone_case,Apple,29.99,4.8,5784,iphone15
+G0061,Belkin Silicone Case for iPhone 15 with MagSafe,Soft silicone phone case with microfiber lining for iPhone 15. MagSafe compatible.,phone_case,Belkin,15.99,4.7,7286,iphone15
+G0062,Speck Silicone Case for iPhone 15 with MagSafe,Soft silicone phone case with microfiber lining for iPhone 15. MagSafe compatible.,phone_case,Speck,11.99,4.2,11274,iphone15
+G0063,Generic Silicone Case for iPhone 15,Soft silicone phone case with microfiber lining for iPhone 15.,phone_case,Generic,12.99,4.2,2041,iphone15
+G0064,Apple Silicone Case for iPhone 15,Soft silicone phone case with microfiber lining for iPhone 15.,phone_case,Apple,45.99,4.6,13084,iphone15
+G0065,Spigen Rugged Case for iPhone 15 with MagSafe,"Rugged shockproof phone case, military grade drop protection for iPhone 15. MagSafe compatible.",phone_case,Spigen,26.99,4.4,3265,iphone15
+G0066,ESR Rugged Case for iPhone 15 with MagSafe,"Rugged shockproof phone case, military grade drop protection for iPhone 15. MagSafe compatible.",phone_case,ESR,23.99,4.2,20498,iphone15
+G0067,Zeta Rugged Case for iPhone 15,"Rugged shockproof phone case, military grade drop protection for iPhone 15.",phone_case,Zeta,10.99,4.0,10103,iphone15
+G0068,OtterBox Rugged Case for iPhone 15 with MagSafe,"Rugged shockproof phone case, military grade drop protection for iPhone 15. MagSafe compatible.",phone_case,OtterBox,63.99,4.2,1668,iphone15
+G0069,ESR Wallet Case for iPhone 15 with MagSafe,Leather wallet phone case with card holder for iPhone 15. MagSafe compatible.,phone_case,ESR,19.99,4.4,9707,iphone15
+G0070,Belkin Wallet Case for iPhone 15,Leather wallet phone case with card holder for iPhone 15.,phone_case,Belkin,22.99,4.5,7851,iphone15
+G0071,Generic Wallet Case for iPhone 15,Leather wallet phone case with card holder for iPhone 15.,phone_case,Generic,14.99,4.2,4495,iphone15
+G0072,Caseology Slim Case for iPhone 15 with MagSafe,Ultra thin slim fit phone case for iPhone 15. MagSafe compatible.,phone_case,Caseology,12.99,4.6,1476,iphone15
+G0073,Anker Slim Case for iPhone 15 with MagSafe,Ultra thin slim fit phone case for iPhone 15. MagSafe compatible.,phone_case,Anker,19.99,4.5,2898,iphone15
+G0074,Zeta Slim Case for iPhone 15,Ultra thin slim fit phone case for iPhone 15.,phone_case,Zeta,7.99,4.3,521,iphone15
+G0075,Caseology Leather Case for iPhone 15 with MagSafe,Genuine leather phone case for iPhone 15. MagSafe compatible.,phone_case,Caseology,24.99,4.6,2198,iphone15
+G0076,ESR Leather Case for iPhone 15 with MagSafe,Genuine leather phone case for iPhone 15. MagSafe compatible.,phone_case,ESR,19.99,4.5,1329,iphone15
+G0077,Zeta Leather Case for iPhone 15 with MagSafe,Genuine leather phone case for iPhone 15. MagSafe compatible.,phone_case,Zeta,9.99,4.1,15034,iphone15
+G0078,Apple Leather Case for iPhone 15,Genuine leather phone case for iPhone 15.,phone_case,Apple,42.99,4.7,1856,iphone15
+G0079,"Generic Tempered Glass Screen Protector for iPhone 15, 3 Pack",9h tempered glass screen protector for iPhone 15.,screen_protector,Generic,4.99,4.3,791,iphone15
+G0080,Belkin Tempered Glass Screen Protector for iPhone 15,9h tempered glass screen protector for iPhone 15.,screen_protector,Belkin,9.99,4.4,3312,iphone15
+G0081,"Generic Privacy Screen Protector for iPhone 15, 3 Pack",Anti-spy privacy tempered glass for iPhone 15.,screen_protector,Generic,7.99,4.5,519,iphone15
+G0082,Anker Privacy Screen Protector for iPhone 15,Anti-spy privacy tempered glass for iPhone 15.,screen_protector,Anker,13.99,4.6,4036,iphone15
+G0083,"Lumo Camera Lens Protector for iPhone 15, 3 Pack",Camera lens protector glass for iPhone 15.,screen_protector,Lumo,3.99,4.2,624,iphone15
+G0084,Anker Camera Lens Protector for iPhone 15,Camera lens protector glass for iPhone 15.,screen_protector,Anker,8.99,4.3,28871,iphone15
+G0085,Belkin Clear Case for iPhone 15 Pro,"Crystal clear protective phone case, anti-yellowing for iPhone 15 Pro.",phone_case,Belkin,16.99,4.6,11234,iphone15pro
+G0086,ESR Clear Case for iPhone 15 Pro,"Crystal clear protective phone case, anti-yellowing for iPhone 15 Pro.",phone_case,ESR,20.99,4.2,1149,iphone15pro
+G0087,Lumo Clear Case for iPhone 15 Pro,"Crystal clear protective phone case, anti-yellowing for iPhone 15 Pro.",phone_case,Lumo,8.99,4.1,2360,iphone15pro
+G0088,Apple Clear Case for iPhone 15 Pro,"Crystal clear protective phone case, anti-yellowing for iPhone 15 Pro.",phone_case,Apple,31.99,4.3,5380,iphone15pro
+G0089,Spigen Silicone Case for iPhone 15 Pro with MagSafe,Soft silicone phone case with microfiber lining for iPhone 15 Pro. MagSafe compatible.,phone_case,Spigen,21.99,4.8,563,iphone15pro
+G0090,ESR Silicone Case for iPhone 15 Pro,Soft silicone phone case with microfiber lining for iPhone 15 Pro.,phone_case,ESR,16.99,4.6,5504,iphone15pro
+G0091,Zeta Silicone Case for iPhone 15 Pro with MagSafe,Soft silicone phone case with microfiber lining for iPhone 15 Pro. MagSafe compatible.,phone_case,Zeta,7.99,4.3,1163,iphone15pro
+G0092,Apple Silicone Case for iPhone 15 Pro,Soft silicone phone case with microfiber lining for iPhone 15 Pro.,phone_case,Apple,40.99,4.2,10064,iphone15pro
+G0093,Belkin Rugged Case for iPhone 15 Pro with MagSafe,"Rugged shockproof phone case, military grade drop protection for iPhone 15 Pro. MagSafe compatible.",phone_case,Belkin,22.99,4.5,1516,iphone15pro
+G0094,Spigen Rugged Case for iPhone 15 Pro with MagSafe,"Rugged shockproof phone case, military grade drop protection for iPhone 15 Pro. MagSafe compatible.",phone_case,Spigen,23.99,4.5,15315,iphone15pro
+G0095,Brio Rugged Case for iPhone 15 Pro,"Rugged shockproof phone case, military grade drop protection for iPhone 15 Pro.",phone_case,Brio,11.99,4.1,27387,iphone15pro
+G0096,OtterBox Rugged Case for iPhone 15 Pro,"Rugged shockproof phone case, military grade drop protection for iPhone 15 Pro.",phone_case,OtterBox,74.99,4.6,1555,iphone15pro
+G0097,Belkin Wallet Case for iPhone 15 Pro with MagSafe,Leather wallet phone case with card holder for iPhone 15 Pro. MagSafe compatible.,phone_case,Belkin,19.99,4.4,23683,iphone15pro
+G0098,ESR Wallet Case for iPhone 15 Pro,Leather wallet phone case with card holder for iPhone 15 Pro.,phone_case,ESR,19.99,4.4,8042,iphone15pro
+G0099,Lumo Wallet Case for iPhone 15 Pro,Leather wallet phone case with card holder for iPhone 15 Pro.,phone_case,Lumo,10.99,4.4,588,iphone15pro
+G0100,Speck Slim Case for iPhone 15 Pro with MagSafe,Ultra thin slim fit phone case for iPhone 15 Pro. MagSafe compatible.,phone_case,Speck,22.99,4.2,9042,iphone15pro
+G0101,Anker Slim Case for iPhone 15 Pro,Ultra thin slim fit phone case for iPhone 15 Pro.,phone_case,Anker,15.99,4.5,10292,iphone15pro
+G0102,Brio Slim Case for iPhone 15 Pro,Ultra thin slim fit phone case for iPhone 15 Pro.,phone_case,Brio,8.99,4.1,7155,iphone15pro
+G0103,Caseology Leather Case for iPhone 15 Pro,Genuine leather phone case for iPhone 15 Pro.,phone_case,Caseology,20.99,4.4,3911,iphone15pro
+G0104,ESR Leather Case for iPhone 15 Pro with MagSafe,Genuine leather phone case for iPhone 15 Pro. MagSafe compatible.,phone_case,ESR,27.99,4.7,6888,iphone15pro
+G0105,Zeta Leather Case for iPhone 15 Pro,Genuine leather phone case for iPhone 15 Pro.,phone_case,Zeta,8.99,4.4,15199,iphone15pro
+G0106,Apple Leather Case for iPhone 15 Pro,Genuine leather phone case for iPhone 15 Pro.,phone_case,Apple,46.99,4.9,5024,iphone15pro
+G0107,"Lumo Tempered Glass Screen Protector for iPhone 15 Pro, 3 Pack",9h tempered glass screen protector for iPhone 15 Pro.,screen_protector,Lumo,3.99,4.3,8628,iphone15pro
+G0108,Speck Tempered Glass Screen Protector for iPhone 15 Pro,9h tempered glass screen protector for iPhone 15 Pro.,screen_protector,Speck,8.99,4.7,5960,iphone15pro
+G0109,"Zeta Privacy Screen Protector for iPhone 15 Pro, 3 Pack",Anti-spy privacy tempered glass for iPhone 15 Pro.,screen_protector,Zeta,5.99,4.4,350,iphone15pro
+G0110,ESR Privacy Screen Protector for iPhone 15 Pro,Anti-spy privacy tempered glass for iPhone 15 Pro.,screen_protector,ESR,18.99,4.1,7688,iphone15pro
+G0111,"Zeta Camera Lens Protector for iPhone 15 Pro, 3 Pack",Camera lens protector glass for iPhone 15 Pro.,screen_protector,Zeta,3.99,4.2,8598,iphone15pro
+G0112,Spigen Camera Lens Protector for iPhone 15 Pro,Camera lens protector glass for iPhone 15 Pro.,screen_protector,Spigen,9.99,4.4,6680,iphone15pro
+G0113,ESR Clear Case for iPhone 15 Pro Max,"Crystal clear protective phone case, anti-yellowing for iPhone 15 Pro Max.",phone_case,ESR,14.99,4.6,11146,iphone15promax
+G0114,Speck Clear Case for iPhone 15 Pro Max,"Crystal clear protective phone case, anti-yellowing for iPhone 15 Pro Max.",phone_case,Speck,23.99,4.7,62649,iphone15promax
+G0115,Zeta Clear Case for iPhone 15 Pro Max,"Crystal clear protective phone case, anti-yellowing for iPhone 15 Pro Max.",phone_case,Zeta,8.99,4.4,1591,iphone15promax
+G0116,Apple Clear Case for iPhone 15 Pro Max with MagSafe,"Crystal clear protective phone case, anti-yellowing for iPhone 15 Pro Max. MagSafe compatible.",phone_case,Apple,39.99,4.4,6632,iphone15promax
+G0117,ESR Silicone Case for iPhone 15 Pro Max with MagSafe,Soft silicone phone case with microfiber lining for iPhone 15 Pro Max. MagSafe compatible.,phone_case,ESR,15.99,4.5,3925,iphone15promax
+G0118,Spigen Silicone Case for iPhone 15 Pro Max,Soft silicone phone case with microfiber lining for iPhone 15 Pro Max.,phone_case,Spigen,10.99,4.7,2299,iphone15promax
+G0119,Generic Silicone Case for iPhone 15 Pro Max,Soft silicone phone case with microfiber lining for iPhone 15 Pro Max.,phone_case,Generic,6.99,4.3,932,iphone15promax
+G0120,Apple Silicone Case for iPhone 15 Pro Max,Soft silicone phone case with microfiber lining for iPhone 15 Pro Max.,phone_case,Apple,39.99,4.6,6278,iphone15promax
+G0121,Speck Rugged Case for iPhone 15 Pro Max with MagSafe,"Rugged shockproof phone case, military grade drop protection for iPhone 15 Pro Max. MagSafe compatible.",phone_case,Speck,18.99,4.7,1940,iphone15promax
+G0122,ESR Rugged Case for iPhone 15 Pro Max with MagSafe,"Rugged shockproof phone case, military grade drop protection for iPhone 15 Pro Max. MagSafe compatible.",phone_case,ESR,23.99,4.4,2141,iphone15promax
+G0123,Generic Rugged Case for iPhone 15 Pro Max,"Rugged shockproof phone case, military grade drop protection for iPhone 15 Pro Max.",phone_case,Generic,7.99,4.0,5727,iphone15promax
+G0124,OtterBox Rugged Case for iPhone 15 Pro Max,"Rugged shockproof phone case, military grade drop protection for iPhone 15 Pro Max.",phone_case,OtterBox,48.99,4.3,3373,iphone15promax
+G0125,Caseology Wallet Case for iPhone 15 Pro Max,Leather wallet phone case with card holder for iPhone 15 Pro Max.,phone_case,Caseology,29.99,4.4,1082,iphone15promax
+G0126,Speck Wallet Case for iPhone 15 Pro Max with MagSafe,Leather wallet phone case with card holder for iPhone 15 Pro Max. MagSafe compatible.,phone_case,Speck,23.99,4.7,10571,iphone15promax
+G0127,Generic Wallet Case for iPhone 15 Pro Max,Leather wallet phone case with card holder for iPhone 15 Pro Max.,phone_case,Generic,11.99,3.9,27584,iphone15promax
+G0128,Anker Slim Case for iPhone 15 Pro Max,Ultra thin slim fit phone case for iPhone 15 Pro Max.,phone_case,Anker,15.99,4.9,1360,iphone15promax
+G0129,Belkin Slim Case for iPhone 15 Pro Max with MagSafe,Ultra thin slim fit phone case for iPhone 15 Pro Max. MagSafe compatible.,phone_case,Belkin,17.99,4.6,7723,iphone15promax
+G0130,Brio Slim Case for iPhone 15 Pro Max with MagSafe,Ultra thin slim fit phone case for iPhone 15 Pro Max. MagSafe compatible.,phone_case,Brio,7.99,4.4,421,iphone15promax
+G0131,Belkin Leather Case for iPhone 15 Pro Max with MagSafe,Genuine leather phone case for iPhone 15 Pro Max. MagSafe compatible.,phone_case,Belkin,25.99,4.3,16271,iphone15promax
+G0132,Speck Leather Case for iPhone 15 Pro Max,Genuine leather phone case for iPhone 15 Pro Max.,phone_case,Speck,22.99,4.3,4658,iphone15promax
+G0133,Lumo Leather Case for iPhone 15 Pro Max with MagSafe,Genuine leather phone case for iPhone 15 Pro Max. MagSafe compatible.,phone_case,Lumo,13.99,4.1,7140,iphone15promax
+G0134,Apple Leather Case for iPhone 15 Pro Max,Genuine leather phone case for iPhone 15 Pro Max.,phone_case,Apple,71.99,4.8,14920,iphone15promax
+G0135,"Generic Tempered Glass Screen Protector for iPhone 15 Pro Max, 3 Pack",9h tempered glass screen protector for iPhone 15 Pro Max.,screen_protector,Generic,4.99,3.7,2629,iphone15promax
+G0136,Caseology Tempered Glass Screen Protector for iPhone 15 Pro Max,9h tempered glass screen protector for iPhone 15 Pro Max.,screen_protector,Caseology,10.99,4.3,4192,iphone15promax
+G0137,"Brio Privacy Screen Protector for iPhone 15 Pro Max, 3 Pack",Anti-spy privacy tempered glass for iPhone 15 Pro Max.,screen_protector,Brio,6.99,4.2,2322,iphone15promax
+G0138,ESR Privacy Screen Protector for iPhone 15 Pro Max,Anti-spy privacy tempered glass for iPhone 15 Pro Max.,screen_protector,ESR,17.99,4.3,2019,iphone15promax
+G0139,"Generic Camera Lens Protector for iPhone 15 Pro Max, 3 Pack",Camera lens protector glass for iPhone 15 Pro Max.,screen_protector,Generic,3.99,4.3,551,iphone15promax
+G0140,Caseology Camera Lens Protector for iPhone 15 Pro Max,Camera lens protector glass for iPhone 15 Pro Max.,screen_protector,Caseology,7.99,4.4,2868,iphone15promax
+G0141,Caseology Clear Case for iPhone 16 with MagSafe,"Crystal clear protective phone case, anti-yellowing for iPhone 16. MagSafe compatible.",phone_case,Caseology,20.99,4.5,14004,iphone16
+G0142,ESR Clear Case for iPhone 16,"Crystal clear protective phone case, anti-yellowing for iPhone 16.",phone_case,ESR,13.99,4.4,6843,iphone16
+G0143,Generic Clear Case for iPhone 16,"Crystal clear protective phone case, anti-yellowing for iPhone 16.",phone_case,Generic,5.99,4.1,7117,iphone16
+G0144,Apple Clear Case for iPhone 16 with MagSafe,"Crystal clear protective phone case, anti-yellowing for iPhone 16. MagSafe compatible.",phone_case,Apple,49.99,4.7,4085,iphone16
+G0145,Belkin Silicone Case for iPhone 16 with MagSafe,Soft silicone phone case with microfiber lining for iPhone 16. MagSafe compatible.,phone_case,Belkin,12.99,4.4,4357,iphone16
+G0146,Speck Silicone Case for iPhone 16 with MagSafe,Soft silicone phone case with microfiber lining for iPhone 16. MagSafe compatible.,phone_case,Speck,14.99,4.5,13552,iphone16
+G0147,Lumo Silicone Case for iPhone 16,Soft silicone phone case with microfiber lining for iPhone 16.,phone_case,Lumo,9.99,4.1,191,iphone16
+G0148,Apple Silicone Case for iPhone 16 with MagSafe,Soft silicone phone case with microfiber lining for iPhone 16. MagSafe compatible.,phone_case,Apple,44.99,4.7,46177,iphone16
+G0149,Caseology Rugged Case for iPhone 16 with MagSafe,"Rugged shockproof phone case, military grade drop protection for iPhone 16. MagSafe compatible.",phone_case,Caseology,24.99,4.6,54550,iphone16
+G0150,Anker Rugged Case for iPhone 16 with MagSafe,"Rugged shockproof phone case, military grade drop protection for iPhone 16. MagSafe compatible.",phone_case,Anker,17.99,4.4,4542,iphone16
+G0151,Lumo Rugged Case for iPhone 16,"Rugged shockproof phone case, military grade drop protection for iPhone 16.",phone_case,Lumo,9.99,4.0,1676,iphone16
+G0152,OtterBox Rugged Case for iPhone 16 with MagSafe,"Rugged shockproof phone case, military grade drop protection for iPhone 16. MagSafe compatible.",phone_case,OtterBox,50.99,4.4,4525,iphone16
+G0153,Caseology Wallet Case for iPhone 16 with MagSafe,Leather wallet phone case with card holder for iPhone 16. MagSafe compatible.,phone_case,Caseology,24.99,4.6,2759,iphone16
+G0154,Speck Wallet Case for iPhone 16,Leather wallet phone case with card holder for iPhone 16.,phone_case,Speck,26.99,4.7,9028,iphone16
+G0155,Lumo Wallet Case for iPhone 16 with MagSafe,Leather wallet phone case with card holder for iPhone 16. MagSafe compatible.,phone_case,Lumo,10.99,3.7,5368,iphone16
+G0156,Anker Slim Case for iPhone 16,Ultra thin slim fit phone case for iPhone 16.,phone_case,Anker,19.99,4.4,8362,iphone16
+G0157,Belkin Slim Case for iPhone 16 with MagSafe,Ultra thin slim fit phone case for iPhone 16. MagSafe compatible.,phone_case,Belkin,14.99,4.4,25035,iphone16
+G0158,Generic Slim Case for iPhone 16,Ultra thin slim fit phone case for iPhone 16.,phone_case,Generic,9.99,4.3,128,iphone16
+G0159,Anker Leather Case for iPhone 16 with MagSafe,Genuine leather phone case for iPhone 16. MagSafe compatible.,phone_case,Anker,22.99,4.5,3231,iphone16
+G0160,Speck Leather Case for iPhone 16,Genuine leather phone case for iPhone 16.,phone_case,Speck,24.99,4.5,5645,iphone16
+G0161,Generic Leather Case for iPhone 16,Genuine leather phone case for iPhone 16.,phone_case,Generic,13.99,4.1,307,iphone16
+G0162,Apple Leather Case for iPhone 16,Genuine leather phone case for iPhone 16.,phone_case,Apple,53.99,4.5,13992,iphone16
+G0163,"Brio Tempered Glass Screen Protector for iPhone 16, 3 Pack",9h tempered glass screen protector for iPhone 16.,screen_protector,Brio,3.99,4.5,1204,iphone16
+G0164,ESR Tempered Glass Screen Protector for iPhone 16,9h tempered glass screen protector for iPhone 16.,screen_protector,ESR,7.99,4.1,4496,iphone16
+G0165,"Brio Privacy Screen Protector for iPhone 16, 3 Pack",Anti-spy privacy tempered glass for iPhone 16.,screen_protector,Brio,5.99,4.2,316,iphone16
+G0166,Spigen Privacy Screen Protector for iPhone 16,Anti-spy privacy tempered glass for iPhone 16.,screen_protector,Spigen,17.99,4.2,2502,iphone16
+G0167,"Brio Camera Lens Protector for iPhone 16, 3 Pack",Camera lens protector glass for iPhone 16.,screen_protector,Brio,5.99,4.2,1455,iphone16
+G0168,Anker Camera Lens Protector for iPhone 16,Camera lens protector glass for iPhone 16.,screen_protector,Anker,7.99,4.4,6188,iphone16
+G0169,ESR Clear Case for Galaxy S22,"Crystal clear protective phone case, anti-yellowing for Galaxy S22.",phone_case,ESR,17.99,4.6,5305,galaxys22
+G0170,Anker Clear Case for Galaxy S22,"Crystal clear protective phone case, anti-yellowing for Galaxy S22.",phone_case,Anker,16.99,4.3,2444,galaxys22
+G0171,Zeta Clear Case for Galaxy S22,"Crystal clear protective phone case, anti-yellowing for Galaxy S22.",phone_case,Zeta,8.99,4.1,1073,galaxys22
+G0172,Samsung Clear Case for Galaxy S22,"Crystal clear protective phone case, anti-yellowing for Galaxy S22.",phone_case,Samsung,46.99,4.7,11032,galaxys22
+G0173,Speck Silicone Case for Galaxy S22,Soft silicone phone case with microfiber lining for Galaxy S22.,phone_case,Speck,18.99,4.3,12263,galaxys22
+G0174,Spigen Silicone Case for Galaxy S22,Soft silicone phone case with microfiber lining for Galaxy S22.,phone_case,Spigen,17.99,4.7,9697,galaxys22
+G0175,Generic Silicone Case for Galaxy S22,Soft silicone phone case with microfiber lining for Galaxy S22.,phone_case,Generic,8.99,4.3,997,galaxys22
+G0176,Samsung Silicone Case for Galaxy S22,Soft silicone phone case with microfiber lining for Galaxy S22.,phone_case,Samsung,47.99,4.6,7216,galaxys22
+G0177,Belkin Rugged Case for Galaxy S22,"Rugged shockproof phone case, military grade drop protection for Galaxy S22.",phone_case,Belkin,27.99,4.3,82512,galaxys22
+G0178,Anker Rugged Case for Galaxy S22,"Rugged shockproof phone case, military grade drop protection for Galaxy S22.",phone_case,Anker,25.99,4.7,4339,galaxys22
+G0179,Generic Rugged Case for Galaxy S22,"Rugged shockproof phone case, military grade drop protection for Galaxy S22.",phone_case,Generic,11.99,4.0,22587,galaxys22
+G0180,OtterBox Rugged Case for Galaxy S22,"Rugged shockproof phone case, military grade drop protection for Galaxy S22.",phone_case,OtterBox,50.99,4.9,691,galaxys22
+G0181,Belkin Wallet Case for Galaxy S22,Leather wallet phone case with card holder for Galaxy S22.,phone_case,Belkin,22.99,4.6,10744,galaxys22
+G0182,Speck Wallet Case for Galaxy S22,Leather wallet phone case with card holder for Galaxy S22.,phone_case,Speck,24.99,4.4,25427,galaxys22
+G0183,Generic Wallet Case for Galaxy S22,Leather wallet phone case with card holder for Galaxy S22.,phone_case,Generic,8.99,4.2,6873,galaxys22
+G0184,ESR Slim Case for Galaxy S22,Ultra thin slim fit phone case for Galaxy S22.,phone_case,ESR,14.99,4.4,5490,galaxys22
+G0185,Anker Slim Case for Galaxy S22,Ultra thin slim fit phone case for Galaxy S22.,phone_case,Anker,15.99,4.6,2444,galaxys22
+G0186,Lumo Slim Case for Galaxy S22,Ultra thin slim fit phone case for Galaxy S22.,phone_case,Lumo,7.99,4.3,2004,galaxys22
+G0187,Spigen Leather Case for Galaxy S22,Genuine leather phone case for Galaxy S22.,phone_case,Spigen,24.99,4.5,9684,galaxys22
+G0188,Speck Leather Case for Galaxy S22,Genuine leather phone case for Galaxy S22.,phone_case,Speck,30.99,4.0,34757,galaxys22
+G0189,Lumo Leather Case for Galaxy S22,Genuine leather phone case for Galaxy S22.,phone_case,Lumo,8.99,4.0,2777,galaxys22
+G0190,Samsung Leather Case for Galaxy S22,Genuine leather phone case for Galaxy S22.,phone_case,Samsung,56.99,4.6,366,galaxys22
+G0191,"Lumo Tempered Glass Screen Protector for Galaxy S22, 3 Pack",9h tempered glass screen protector for Galaxy S22.,screen_protector,Lumo,4.99,4.1,2223,galaxys22
+G0192,Speck Tempered Glass Screen Protector for Galaxy S22,9h tempered glass screen protector for Galaxy S22.,screen_protector,Speck,8.99,4.4,4509,galaxys22
+G0193,"Brio Privacy Screen Protector for Galaxy S22, 3 Pack",Anti-spy privacy tempered glass for Galaxy S22.,screen_protector,Brio,8.99,4.1,522,galaxys22
+G0194,Spigen Privacy Screen Protector for Galaxy S22,Anti-spy privacy tempered glass for Galaxy S22.,screen_protector,Spigen,17.99,4.3,5015,galaxys22
+G0195,"Generic Camera Lens Protector for Galaxy S22, 3 Pack",Camera lens protector glass for Galaxy S22.,screen_protector,Generic,3.99,4.2,12027,galaxys22
+G0196,Belkin Camera Lens Protector for Galaxy S22,Camera lens protector glass for Galaxy S22.,screen_protector,Belkin,5.99,4.3,2421,galaxys22
+G0197,Anker Clear Case for Galaxy S23,"Crystal clear protective phone case, anti-yellowing for Galaxy S23.",phone_case,Anker,17.99,4.4,61950,galaxys23
+G0198,ESR Clear Case for Galaxy S23,"Crystal clear protective phone case, anti-yellowing for Galaxy S23.",phone_case,ESR,18.99,4.5,16104,galaxys23
+G0199,Zeta Clear Case for Galaxy S23,"Crystal clear protective phone case, anti-yellowing for Galaxy S23.",phone_case,Zeta,9.99,4.3,1811,galaxys23
+G0200,Samsung Clear Case for Galaxy S23,"Crystal clear protective phone case, anti-yellowing for Galaxy S23.",phone_case,Samsung,38.99,4.9,3941,galaxys23
+G0201,Speck Silicone Case for Galaxy S23,Soft silicone phone case with microfiber lining for Galaxy S23.,phone_case,Speck,20.99,4.6,3563,galaxys23
+G0202,Spigen Silicone Case for Galaxy S23,Soft silicone phone case with microfiber lining for Galaxy S23.,phone_case,Spigen,20.99,4.4,17895,galaxys23
+G0203,Generic Silicone Case for Galaxy S23,Soft silicone phone case with microfiber lining for Galaxy S23.,phone_case,Generic,7.99,4.2,1679,galaxys23
+G0204,Samsung Silicone Case for Galaxy S23,Soft silicone phone case with microfiber lining for Galaxy S23.,phone_case,Samsung,42.99,4.5,6260,galaxys23
+G0205,Caseology Rugged Case for Galaxy S23,"Rugged shockproof phone case, military grade drop protection for Galaxy S23.",phone_case,Caseology,29.99,4.1,1799,galaxys23
+G0206,Speck Rugged Case for Galaxy S23,"Rugged shockproof phone case, military grade drop protection for Galaxy S23.",phone_case,Speck,24.99,4.6,3869,galaxys23
+G0207,Generic Rugged Case for Galaxy S23,"Rugged shockproof phone case, military grade drop protection for Galaxy S23.",phone_case,Generic,7.99,4.2,212,galaxys23
+G0208,OtterBox Rugged Case for Galaxy S23,"Rugged shockproof phone case, military grade drop protection for Galaxy S23.",phone_case,OtterBox,64.99,4.6,2290,galaxys23
+G0209,Anker Wallet Case for Galaxy S23,Leather wallet phone case with card holder for Galaxy S23.,phone_case,Anker,24.99,4.7,3522,galaxys23
+G0210,Spigen Wallet Case for Galaxy S23,Leather wallet phone case with card holder for Galaxy S23.,phone_case,Spigen,16.99,4.2,19188,galaxys23
+G0211,Lumo Wallet Case for Galaxy S23,Leather wallet phone case with card holder for Galaxy S23.,phone_case,Lumo,9.99,4.1,4322,galaxys23
+G0212,Anker Slim Case for Galaxy S23,Ultra thin slim fit phone case for Galaxy S23.,phone_case,Anker,19.99,4.5,20733,galaxys23
+G0213,Caseology Slim Case for Galaxy S23,Ultra thin slim fit phone case for Galaxy S23.,phone_case,Caseology,21.99,4.3,2921,galaxys23
+G0214,Brio Slim Case for Galaxy S23,Ultra thin slim fit phone case for Galaxy S23.,phone_case,Brio,8.99,4.3,733,galaxys23
+G0215,ESR Leather Case for Galaxy S23,Genuine leather phone case for Galaxy S23.,phone_case,ESR,29.99,4.5,6807,galaxys23
+G0216,Anker Leather Case for Galaxy S23,Genuine leather phone case for Galaxy S23.,phone_case,Anker,25.99,4.2,10027,galaxys23
+G0217,Zeta Leather Case for Galaxy S23,Genuine leather phone case for Galaxy S23.,phone_case,Zeta,8.99,4.2,1231,galaxys23
+G0218,Samsung Leather Case for Galaxy S23,Genuine leather phone case for Galaxy S23.,phone_case,Samsung,55.99,4.6,10716,galaxys23
+G0219,"Zeta Tempered Glass Screen Protector for Galaxy S23, 3 Pack",9h tempered glass screen protector for Galaxy S23.,screen_protector,Zeta,3.99,4.3,8452,galaxys23
+G0220,Anker Tempered Glass Screen Protector for Galaxy S23,9h tempered glass screen protector for Galaxy S23.,screen_protector,Anker,9.99,4.1,3464,galaxys23
+G0221,"Zeta Privacy Screen Protector for Galaxy S23, 3 Pack",Anti-spy privacy tempered glass for Galaxy S23.,screen_protector,Zeta,7.99,3.9,253,galaxys23
+G0222,Belkin Privacy Screen Protector for Galaxy S23,Anti-spy privacy tempered glass for Galaxy S23.,screen_protector,Belkin,24.99,4.5,1417,galaxys23
+G0223,"Generic Camera Lens Protector for Galaxy S23, 3 Pack",Camera lens protector glass for Galaxy S23.,screen_protector,Generic,3.99,4.1,4089,galaxys23
+G0224,Speck Camera Lens Protector for Galaxy S23,Camera lens protector glass for Galaxy S23.,screen_protector,Speck,6.99,4.6,4113,galaxys23
+G0225,Anker Clear Case for Galaxy S24,"Crystal clear protective phone case, anti-yellowing for Galaxy S24.",phone_case,Anker,22.99,4.2,12014,galaxys24
+G0226,Speck Clear Case for Galaxy S24,"Crystal clear protective phone case, anti-yellowing for Galaxy S24.",phone_case,Speck,17.99,4.6,21131,galaxys24
+G0227,Zeta Clear Case for Galaxy S24,"Crystal clear protective phone case, anti-yellowing for Galaxy S24.",phone_case,Zeta,5.99,4.2,938,galaxys24
+G0228,Samsung Clear Case for Galaxy S24,"Crystal clear protective phone case, anti-yellowing for Galaxy S24.",phone_case,Samsung,44.99,4.7,8863,galaxys24
+G0229,Spigen Silicone Case for Galaxy S24,Soft silicone phone case with microfiber lining for Galaxy S24.,phone_case,Spigen,14.99,4.6,2543,galaxys24
+G0230,Belkin Silicone Case for Galaxy S24,Soft silicone phone case with microfiber lining for Galaxy S24.,phone_case,Belkin,21.99,4.5,3868,galaxys24
+G0231,Lumo Silicone Case for Galaxy S24,Soft silicone phone case with microfiber lining for Galaxy S24.,phone_case,Lumo,7.99,4.3,18271,galaxys24
+G0232,Samsung Silicone Case for Galaxy S24,Soft silicone phone case with microfiber lining for Galaxy S24.,phone_case,Samsung,43.99,4.6,1621,galaxys24
+G0233,Speck Rugged Case for Galaxy S24,"Rugged shockproof phone case, military grade drop protection for Galaxy S24.",phone_case,Speck,18.99,4.2,11116,galaxys24
+G0234,Belkin Rugged Case for Galaxy S24,"Rugged shockproof phone case, military grade drop protection for Galaxy S24.",phone_case,Belkin,31.99,4.6,2503,galaxys24
+G0235,Generic Rugged Case for Galaxy S24,"Rugged shockproof phone case, military grade drop protection for Galaxy S24.",phone_case,Generic,10.99,4.2,1997,galaxys24
+G0236,OtterBox Rugged Case for Galaxy S24,"Rugged shockproof phone case, military grade drop protection for Galaxy S24.",phone_case,OtterBox,73.99,4.9,1721,galaxys24
+G0237,Anker Wallet Case for Galaxy S24,Leather wallet phone case with card holder for Galaxy S24.,phone_case,Anker,28.99,4.6,268,galaxys24
+G0238,Speck Wallet Case for Galaxy S24,Leather wallet phone case with card holder for Galaxy S24.,phone_case,Speck,29.99,4.4,6247,galaxys24
+G0239,Lumo Wallet Case for Galaxy S24,Leather wallet phone case with card holder for Galaxy S24.,phone_case,Lumo,7.99,4.2,5572,galaxys24
+G0240,Speck Slim Case for Galaxy S24,Ultra thin slim fit phone case for Galaxy S24.,phone_case,Speck,17.99,4.4,1474,galaxys24
+G0241,Spigen Slim Case for Galaxy S24,Ultra thin slim fit phone case for Galaxy S24.,phone_case,Spigen,15.99,4.5,15640,galaxys24
+G0242,Zeta Slim Case for Galaxy S24,Ultra thin slim fit phone case for Galaxy S24.,phone_case,Zeta,10.99,3.9,561,galaxys24
+G0243,Caseology Leather Case for Galaxy S24,Genuine leather phone case for Galaxy S24.,phone_case,Caseology,21.99,4.3,5525,galaxys24
+G0244,Speck Leather Case for Galaxy S24,Genuine leather phone case for Galaxy S24.,phone_case,Speck,18.99,4.3,1851,galaxys24
+G0245,Generic Leather Case for Galaxy S24,Genuine leather phone case for Galaxy S24.,phone_case,Generic,8.99,4.0,7219,galaxys24
+G0246,Samsung Leather Case for Galaxy S24,Genuine leather phone case for Galaxy S24.,phone_case,Samsung,41.99,4.5,43451,galaxys24
+G0247,"Lumo Tempered Glass Screen Protector for Galaxy S24, 3 Pack",9h tempered glass screen protector for Galaxy S24.,screen_protector,Lumo,3.99,4.2,639,galaxys24
+G0248,Anker Tempered Glass Screen Protector for Galaxy S24,9h tempered glass screen protector for Galaxy S24.,screen_protector,Anker,8.99,4.4,31087,galaxys24
+G0249,"Zeta Privacy Screen Protector for Galaxy S24, 3 Pack",Anti-spy privacy tempered glass for Galaxy S24.,screen_protector,Zeta,6.99,3.9,1040,galaxys24
+G0250,ESR Privacy Screen Protector for Galaxy S24,Anti-spy privacy tempered glass for Galaxy S24.,screen_protector,ESR,14.99,4.5,2279,galaxys24
+G0251,"Zeta Camera Lens Protector for Galaxy S24, 3 Pack",Camera lens protector glass for Galaxy S24.,screen_protector,Zeta,3.99,4.3,3755,galaxys24
+G0252,Caseology Camera Lens Protector for Galaxy S24,Camera lens protector glass for Galaxy S24.,screen_protector,Caseology,7.99,4.2,2089,galaxys24
+G0253,Belkin Clear Case for Galaxy S24 Ultra,"Crystal clear protective phone case, anti-yellowing for Galaxy S24 Ultra.",phone_case,Belkin,14.99,4.6,1923,galaxys24ultra
+G0254,Spigen Clear Case for Galaxy S24 Ultra,"Crystal clear protective phone case, anti-yellowing for Galaxy S24 Ultra.",phone_case,Spigen,18.99,4.6,10497,galaxys24ultra
+G0255,Zeta Clear Case for Galaxy S24 Ultra,"Crystal clear protective phone case, anti-yellowing for Galaxy S24 Ultra.",phone_case,Zeta,8.99,4.0,970,galaxys24ultra
+G0256,Samsung Clear Case for Galaxy S24 Ultra,"Crystal clear protective phone case, anti-yellowing for Galaxy S24 Ultra.",phone_case,Samsung,34.99,4.4,5231,galaxys24ultra
+G0257,Caseology Silicone Case for Galaxy S24 Ultra,Soft silicone phone case with microfiber lining for Galaxy S24 Ultra.,phone_case,Caseology,19.99,4.1,16879,galaxys24ultra
+G0258,Speck Silicone Case for Galaxy S24 Ultra,Soft silicone phone case with microfiber lining for Galaxy S24 Ultra.,phone_case,Speck,17.99,4.5,5796,galaxys24ultra
+G0259,Zeta Silicone Case for Galaxy S24 Ultra,Soft silicone phone case with microfiber lining for Galaxy S24 Ultra.,phone_case,Zeta,7.99,3.9,1268,galaxys24ultra
+G0260,Samsung Silicone Case for Galaxy S24 Ultra,Soft silicone phone case with microfiber lining for Galaxy S24 Ultra.,phone_case,Samsung,41.99,4.6,2538,galaxys24ultra
+G0261,Speck Rugged Case for Galaxy S24 Ultra,"Rugged shockproof phone case, military grade drop protection for Galaxy S24 Ultra.",phone_case,Speck,26.99,4.5,9947,galaxys24ultra
+G0262,Caseology Rugged Case for Galaxy S24 Ultra,"Rugged shockproof phone case, military grade drop protection for Galaxy S24 Ultra.",phone_case,Caseology,24.99,4.3,451,galaxys24ultra
+G0263,Zeta Rugged Case for Galaxy S24 Ultra,"Rugged shockproof phone case, military grade drop protection for Galaxy S24 Ultra.",phone_case,Zeta,12.99,4.1,6049,galaxys24ultra
+G0264,OtterBox Rugged Case for Galaxy S24 Ultra,"Rugged shockproof phone case, military grade drop protection for Galaxy S24 Ultra.",phone_case,OtterBox,70.99,4.3,3119,galaxys24ultra
+G0265,Caseology Wallet Case for Galaxy S24 Ultra,Leather wallet phone case with card holder for Galaxy S24 Ultra.,phone_case,Caseology,25.99,4.4,4725,galaxys24ultra
+G0266,ESR Wallet Case for Galaxy S24 Ultra,Leather wallet phone case with card holder for Galaxy S24 Ultra.,phone_case,ESR,21.99,4.7,17947,galaxys24ultra
+G0267,Generic Wallet Case for Galaxy S24 Ultra,Leather wallet phone case with card holder for Galaxy S24 Ultra.,phone_case,Generic,14.99,4.1,1711,galaxys24ultra
+G0268,Speck Slim Case for Galaxy S24 Ultra,Ultra thin slim fit phone case for Galaxy S24 Ultra.,phone_case,Speck,16.99,4.5,609,galaxys24ultra
+G0269,Anker Slim Case for Galaxy S24 Ultra,Ultra thin slim fit phone case for Galaxy S24 Ultra.,phone_case,Anker,15.99,4.5,2271,galaxys24ultra
+G0270,Generic Slim Case for Galaxy S24 Ultra,Ultra thin slim fit phone case for Galaxy S24 Ultra.,phone_case,Generic,5.99,4.2,2518,galaxys24ultra
+G0271,Caseology Leather Case for Galaxy S24 Ultra,Genuine leather phone case for Galaxy S24 Ultra.,phone_case,Caseology,16.99,4.0,9541,galaxys24ultra
+G0272,ESR Leather Case for Galaxy S24 Ultra,Genuine leather phone case for Galaxy S24 Ultra.,phone_case,ESR,26.99,4.6,7825,galaxys24ultra
+G0273,Zeta Leather Case for Galaxy S24 Ultra,Genuine leather phone case for Galaxy S24 Ultra.,phone_case,Zeta,7.99,4.0,420,galaxys24ultra
+G0274,Samsung Leather Case for Galaxy S24 Ultra,Genuine leather phone case for Galaxy S24 Ultra.,phone_case,Samsung,61.99,4.6,3345,galaxys24ultra
+G0275,"Generic Tempered Glass Screen Protector for Galaxy S24 Ultra, 3 Pack",9h tempered glass screen protector for Galaxy S24 Ultra.,screen_protector,Generic,3.99,4.2,1667,galaxys24ultra
+G0276,ESR Tempered Glass Screen Protector for Galaxy S24 Ultra,9h tempered glass screen protector for Galaxy S24 Ultra.,screen_protector,ESR,7.99,4.5,11923,galaxys24ultra
+G0277,"Zeta Privacy Screen Protector for Galaxy S24 Ultra, 3 Pack",Anti-spy privacy tempered glass for Galaxy S24 Ultra.,screen_protector,Zeta,7.99,4.1,825,galaxys24ultra
+G0278,Spigen Privacy Screen Protector for Galaxy S24 Ultra,Anti-spy privacy tempered glass for Galaxy S24 Ultra.,screen_protector,Spigen,17.99,4.8,3481,galaxys24ultra
+G0279,"Generic Camera Lens Protector for Galaxy S24 Ultra, 3 Pack",Camera lens protector glass for Galaxy S24 Ultra.,screen_protector,Generic,3.99,4.1,911,galaxys24ultra
+G0280,Caseology Camera Lens Protector for Galaxy S24 Ultra,Camera lens protector glass for Galaxy S24 Ultra.,screen_protector,Caseology,7.99,4.4,13837,galaxys24ultra
+G0281,Anker Clear Case for Galaxy A15,"Crystal clear protective phone case, anti-yellowing for Galaxy A15.",phone_case,Anker,16.99,4.3,1790,galaxya15
+G0282,Spigen Clear Case for Galaxy A15,"Crystal clear protective phone case, anti-yellowing for Galaxy A15.",phone_case,Spigen,22.99,4.5,8749,galaxya15
+G0283,Generic Clear Case for Galaxy A15,"Crystal clear protective phone case, anti-yellowing for Galaxy A15.",phone_case,Generic,5.99,4.1,583,galaxya15
+G0284,Samsung Clear Case for Galaxy A15,"Crystal clear protective phone case, anti-yellowing for Galaxy A15.",phone_case,Samsung,49.99,4.5,9230,galaxya15
+G0285,ESR Silicone Case for Galaxy A15,Soft silicone phone case with microfiber lining for Galaxy A15.,phone_case,ESR,22.99,4.6,52963,galaxya15
+G0286,Caseology Silicone Case for Galaxy A15,Soft silicone phone case with microfiber lining for Galaxy A15.,phone_case,Caseology,27.99,4.5,830,galaxya15
+G0287,Brio Silicone Case for Galaxy A15,Soft silicone phone case with microfiber lining for Galaxy A15.,phone_case,Brio,9.99,4.2,2844,galaxya15
+G0288,Samsung Silicone Case for Galaxy A15,Soft silicone phone case with microfiber lining for Galaxy A15.,phone_case,Samsung,38.99,4.6,37841,galaxya15
+G0289,Spigen Rugged Case for Galaxy A15,"Rugged shockproof phone case, military grade drop protection for Galaxy A15.",phone_case,Spigen,22.99,4.6,11258,galaxya15
+G0290,Caseology Rugged Case for Galaxy A15,"Rugged shockproof phone case, military grade drop protection for Galaxy A15.",phone_case,Caseology,14.99,4.6,9600,galaxya15
+G0291,Lumo Rugged Case for Galaxy A15,"Rugged shockproof phone case, military grade drop protection for Galaxy A15.",phone_case,Lumo,9.99,4.4,615,galaxya15
+G0292,OtterBox Rugged Case for Galaxy A15,"Rugged shockproof phone case, military grade drop protection for Galaxy A15.",phone_case,OtterBox,67.99,4.5,6435,galaxya15
+G0293,Belkin Wallet Case for Galaxy A15,Leather wallet phone case with card holder for Galaxy A15.,phone_case,Belkin,21.99,4.6,17008,galaxya15
+G0294,Spigen Wallet Case for Galaxy A15,Leather wallet phone case with card holder for Galaxy A15.,phone_case,Spigen,18.99,4.5,5095,galaxya15
+G0295,Generic Wallet Case for Galaxy A15,Leather wallet phone case with card holder for Galaxy A15.,phone_case,Generic,11.99,4.1,919,galaxya15
+G0296,Caseology Slim Case for Galaxy A15,Ultra thin slim fit phone case for Galaxy A15.,phone_case,Caseology,15.99,4.4,1552,galaxya15
+G0297,Speck Slim Case for Galaxy A15,Ultra thin slim fit phone case for Galaxy A15.,phone_case,Speck,16.99,4.4,11930,galaxya15
+G0298,Brio Slim Case for Galaxy A15,Ultra thin slim fit phone case for Galaxy A15.,phone_case,Brio,6.99,3.9,1960,galaxya15
+G0299,Belkin Leather Case for Galaxy A15,Genuine leather phone case for Galaxy A15.,phone_case,Belkin,20.99,4.3,2216,galaxya15
+G0300,Speck Leather Case for Galaxy A15,Genuine leather phone case for Galaxy A15.,phone_case,Speck,27.99,4.4,25824,galaxya15
+G0301,Generic Leather Case for Galaxy A15,Genuine leather phone case for Galaxy A15.,phone_case,Generic,9.99,4.3,2411,galaxya15
+G0302,Samsung Leather Case for Galaxy A15,Genuine leather phone case for Galaxy A15.,phone_case,Samsung,52.99,4.4,1839,galaxya15
+G0303,"Generic Tempered Glass Screen Protector for Galaxy A15, 3 Pack",9h tempered glass screen protector for Galaxy A15.,screen_protector,Generic,3.99,4.2,1488,galaxya15
+G0304,Speck Tempered Glass Screen Protector for Galaxy A15,9h tempered glass screen protector for Galaxy A15.,screen_protector,Speck,9.99,4.6,19541,galaxya15
+G0305,"Brio Privacy Screen Protector for Galaxy A15, 3 Pack",Anti-spy privacy tempered glass for Galaxy A15.,screen_protector,Brio,6.99,3.9,1279,galaxya15
+G0306,Spigen Privacy Screen Protector for Galaxy A15,Anti-spy privacy tempered glass for Galaxy A15.,screen_protector,Spigen,16.99,4.6,11822,galaxya15
+G0307,"Lumo Camera Lens Protector for Galaxy A15, 3 Pack",Camera lens protector glass for Galaxy A15.,screen_protector,Lumo,3.99,4.1,1447,galaxya15
+G0308,Caseology Camera Lens Protector for Galaxy A15,Camera lens protector glass for Galaxy A15.,screen_protector,Caseology,6.99,4.4,1416,galaxya15
+G0309,Caseology Clear Case for Galaxy A54,"Crystal clear protective phone case, anti-yellowing for Galaxy A54.",phone_case,Caseology,25.99,4.2,8900,galaxya54
+G0310,ESR Clear Case for Galaxy A54,"Crystal clear protective phone case, anti-yellowing for Galaxy A54.",phone_case,ESR,19.99,4.4,3590,galaxya54
+G0311,Brio Clear Case for Galaxy A54,"Crystal clear protective phone case, anti-yellowing for Galaxy A54.",phone_case,Brio,7.99,4.0,3314,galaxya54
+G0312,Samsung Clear Case for Galaxy A54,"Crystal clear protective phone case, anti-yellowing for Galaxy A54.",phone_case,Samsung,34.99,4.7,23235,galaxya54
+G0313,Caseology Silicone Case for Galaxy A54,Soft silicone phone case with microfiber lining for Galaxy A54.,phone_case,Caseology,17.99,4.6,3648,galaxya54
+G0314,ESR Silicone Case for Galaxy A54,Soft silicone phone case with microfiber lining for Galaxy A54.,phone_case,ESR,13.99,4.6,723,galaxya54
+G0315,Brio Silicone Case for Galaxy A54,Soft silicone phone case with microfiber lining for Galaxy A54.,phone_case,Brio,7.99,4.2,2432,galaxya54
+G0316,Samsung Silicone Case for Galaxy A54,Soft silicone phone case with microfiber lining for Galaxy A54.,phone_case,Samsung,48.99,4.7,11232,galaxya54
+G0317,Belkin Rugged Case for Galaxy A54,"Rugged shockproof phone case, military grade drop protection for Galaxy A54.",phone_case,Belkin,19.99,4.3,425,galaxya54
+G0318,ESR Rugged Case for Galaxy A54,"Rugged shockproof phone case, military grade drop protection for Galaxy A54.",phone_case,ESR,25.99,4.6,1350,galaxya54
+G0319,Zeta Rugged Case for Galaxy A54,"Rugged shockproof phone case, military grade drop protection for Galaxy A54.",phone_case,Zeta,11.99,3.9,990,galaxya54
+G0320,OtterBox Rugged Case for Galaxy A54,"Rugged shockproof phone case, military grade drop protection for Galaxy A54.",phone_case,OtterBox,54.99,4.7,1657,galaxya54
+G0321,Belkin Wallet Case for Galaxy A54,Leather wallet phone case with card holder for Galaxy A54.,phone_case,Belkin,27.99,4.3,5229,galaxya54
+G0322,Spigen Wallet Case for Galaxy A54,Leather wallet phone case with card holder for Galaxy A54.,phone_case,Spigen,18.99,4.7,17040,galaxya54
+G0323,Brio Wallet Case for Galaxy A54,Leather wallet phone case with card holder for Galaxy A54.,phone_case,Brio,10.99,4.2,3135,galaxya54
+G0324,Caseology Slim Case for Galaxy A54,Ultra thin slim fit phone case for Galaxy A54.,phone_case,Caseology,15.99,4.6,4141,galaxya54
+G0325,Anker Slim Case for Galaxy A54,Ultra thin slim fit phone case for Galaxy A54.,phone_case,Anker,17.99,4.4,4723,galaxya54
+G0326,Zeta Slim Case for Galaxy A54,Ultra thin slim fit phone case for Galaxy A54.,phone_case,Zeta,8.99,4.4,805,galaxya54
+G0327,Caseology Leather Case for Galaxy A54,Genuine leather phone case for Galaxy A54.,phone_case,Caseology,23.99,4.4,7851,galaxya54
+G0328,Speck Leather Case for Galaxy A54,Genuine leather phone case for Galaxy A54.,phone_case,Speck,19.99,4.6,69764,galaxya54
+G0329,Generic Leather Case for Galaxy A54,Genuine leather phone case for Galaxy A54.,phone_case,Generic,8.99,4.0,1592,galaxya54
+G0330,Samsung Leather Case for Galaxy A54,Genuine leather phone case for Galaxy A54.,phone_case,Samsung,55.99,4.5,6963,galaxya54
+G0331,"Generic Tempered Glass Screen Protector for Galaxy A54, 3 Pack",9h tempered glass screen protector for Galaxy A54.,screen_protector,Generic,4.99,4.2,2109,galaxya54
+G0332,Belkin Tempered Glass Screen Protector for Galaxy A54,9h tempered glass screen protector for Galaxy A54.,screen_protector,Belkin,9.99,4.5,5801,galaxya54
+G0333,"Generic Privacy Screen Protector for Galaxy A54, 3 Pack",Anti-spy privacy tempered glass for Galaxy A54.,screen_protector,Generic,6.99,4.0,2233,galaxya54
+G0334,Speck Privacy Screen Protector for Galaxy A54,Anti-spy privacy tempered glass for Galaxy A54.,screen_protector,Speck,13.99,4.5,11344,galaxya54
+G0335,"Zeta Camera Lens Protector for Galaxy A54, 3 Pack",Camera lens protector glass for Galaxy A54.,screen_protector,Zeta,3.99,4.2,499,galaxya54
+G0336,Speck Camera Lens Protector for Galaxy A54,Camera lens protector glass for Galaxy A54.,screen_protector,Speck,7.99,4.2,8317,galaxya54
+G0337,Spigen Clear Case for Pixel 7,"Crystal clear protective phone case, anti-yellowing for Pixel 7.",phone_case,Spigen,22.99,4.1,4113,pixel7
+G0338,Speck Clear Case for Pixel 7,"Crystal clear protective phone case, anti-yellowing for Pixel 7.",phone_case,Speck,19.99,4.5,5740,pixel7
+G0339,Brio Clear Case for Pixel 7,"Crystal clear protective phone case, anti-yellowing for Pixel 7.",phone_case,Brio,9.99,4.2,2521,pixel7
+G0340,Google Clear Case for Pixel 7,"Crystal clear protective phone case, anti-yellowing for Pixel 7.",phone_case,Google,41.99,4.5,34815,pixel7
+G0341,Spigen Silicone Case for Pixel 7,Soft silicone phone case with microfiber lining for Pixel 7.,phone_case,Spigen,18.99,4.6,3504,pixel7
+G0342,Belkin Silicone Case for Pixel 7,Soft silicone phone case with microfiber lining for Pixel 7.,phone_case,Belkin,17.99,4.4,6707,pixel7
+G0343,Zeta Silicone Case for Pixel 7,Soft silicone phone case with microfiber lining for Pixel 7.,phone_case,Zeta,8.99,4.1,233,pixel7
+G0344,Google Silicone Case for Pixel 7,Soft silicone phone case with microfiber lining for Pixel 7.,phone_case,Google,34.99,4.9,55736,pixel7
+G0345,Speck Rugged Case for Pixel 7,"Rugged shockproof phone case, military grade drop protection for Pixel 7.",phone_case,Speck,21.99,4.4,13093,pixel7
+G0346,Belkin Rugged Case for Pixel 7,"Rugged shockproof phone case, military grade drop protection for Pixel 7.",phone_case,Belkin,28.99,4.5,1714,pixel7
+G0347,Generic Rugged Case for Pixel 7,"Rugged shockproof phone case, military grade drop protection for Pixel 7.",phone_case,Generic,12.99,3.9,1053,pixel7
+G0348,OtterBox Rugged Case for Pixel 7,"Rugged shockproof phone case, military grade drop protection for Pixel 7.",phone_case,OtterBox,56.99,4.5,1900,pixel7
+G0349,Anker Wallet Case for Pixel 7,Leather wallet phone case with card holder for Pixel 7.,phone_case,Anker,22.99,4.1,6178,pixel7
+G0350,Belkin Wallet Case for Pixel 7,Leather wallet phone case with card holder for Pixel 7.,phone_case,Belkin,24.99,4.6,13630,pixel7
+G0351,Generic Wallet Case for Pixel 7,Leather wallet phone case with card holder for Pixel 7.,phone_case,Generic,11.99,4.0,4946,pixel7
+G0352,Spigen Slim Case for Pixel 7,Ultra thin slim fit phone case for Pixel 7.,phone_case,Spigen,20.99,4.9,1069,pixel7
+G0353,ESR Slim Case for Pixel 7,Ultra thin slim fit phone case for Pixel 7.,phone_case,ESR,22.99,4.3,2023,pixel7
+G0354,Generic Slim Case for Pixel 7,Ultra thin slim fit phone case for Pixel 7.,phone_case,Generic,7.99,4.1,19482,pixel7
+G0355,Spigen Leather Case for Pixel 7,Genuine leather phone case for Pixel 7.,phone_case,Spigen,26.99,4.4,3198,pixel7
+G0356,Speck Leather Case for Pixel 7,Genuine leather phone case for Pixel 7.,phone_case,Speck,26.99,4.2,15847,pixel7
+G0357,Brio Leather Case for Pixel 7,Genuine leather phone case for Pixel 7.,phone_case,Brio,12.99,4.5,1097,pixel7
+G0358,Google Leather Case for Pixel 7,Genuine leather phone case for Pixel 7.,phone_case,Google,66.99,4.6,47400,pixel7
+G0359,"Lumo Tempered Glass Screen Protector for Pixel 7, 3 Pack",9h tempered glass screen protector for Pixel 7.,screen_protector,Lumo,5.99,4.4,25106,pixel7
+G0360,Caseology Tempered Glass Screen Protector for Pixel 7,9h tempered glass screen protector for Pixel 7.,screen_protector,Caseology,6.99,4.4,1942,pixel7
+G0361,"Lumo Privacy Screen Protector for Pixel 7, 3 Pack",Anti-spy privacy tempered glass for Pixel 7.,screen_protector,Lumo,8.99,4.1,5807,pixel7
+G0362,Belkin Privacy Screen Protector for Pixel 7,Anti-spy privacy tempered glass for Pixel 7.,screen_protector,Belkin,20.99,3.9,1175,pixel7
+G0363,"Lumo Camera Lens Protector for Pixel 7, 3 Pack",Camera lens protector glass for Pixel 7.,screen_protector,Lumo,3.99,4.1,8825,pixel7
+G0364,Spigen Camera Lens Protector for Pixel 7,Camera lens protector glass for Pixel 7.,screen_protector,Spigen,6.99,4.4,23026,pixel7
+G0365,Spigen Clear Case for Pixel 8,"Crystal clear protective phone case, anti-yellowing for Pixel 8.",phone_case,Spigen,14.99,4.6,26591,pixel8
+G0366,Caseology Clear Case for Pixel 8,"Crystal clear protective phone case, anti-yellowing for Pixel 8.",phone_case,Caseology,15.99,4.8,7762,pixel8
+G0367,Lumo Clear Case for Pixel 8,"Crystal clear protective phone case, anti-yellowing for Pixel 8.",phone_case,Lumo,8.99,3.9,886,pixel8
+G0368,Google Clear Case for Pixel 8,"Crystal clear protective phone case, anti-yellowing for Pixel 8.",phone_case,Google,48.99,4.8,2674,pixel8
+G0369,Anker Silicone Case for Pixel 8,Soft silicone phone case with microfiber lining for Pixel 8.,phone_case,Anker,19.99,4.5,31408,pixel8
+G0370,Belkin Silicone Case for Pixel 8,Soft silicone phone case with microfiber lining for Pixel 8.,phone_case,Belkin,23.99,4.5,6466,pixel8
+G0371,Brio Silicone Case for Pixel 8,Soft silicone phone case with microfiber lining for Pixel 8.,phone_case,Brio,7.99,4.4,1236,pixel8
+G0372,Google Silicone Case for Pixel 8,Soft silicone phone case with microfiber lining for Pixel 8.,phone_case,Google,46.99,4.3,2313,pixel8
+G0373,Speck Rugged Case for Pixel 8,"Rugged shockproof phone case, military grade drop protection for Pixel 8.",phone_case,Speck,16.99,4.4,11922,pixel8
+G0374,ESR Rugged Case for Pixel 8,"Rugged shockproof phone case, military grade drop protection for Pixel 8.",phone_case,ESR,26.99,4.4,1229,pixel8
+G0375,Brio Rugged Case for Pixel 8,"Rugged shockproof phone case, military grade drop protection for Pixel 8.",phone_case,Brio,12.99,4.4,484,pixel8
+G0376,OtterBox Rugged Case for Pixel 8,"Rugged shockproof phone case, military grade drop protection for Pixel 8.",phone_case,OtterBox,52.99,4.6,6882,pixel8
+G0377,Caseology Wallet Case for Pixel 8,Leather wallet phone case with card holder for Pixel 8.,phone_case,Caseology,22.99,4.5,14116,pixel8
+G0378,Speck Wallet Case for Pixel 8,Leather wallet phone case with card holder for Pixel 8.,phone_case,Speck,27.99,4.7,5197,pixel8
+G0379,Generic Wallet Case for Pixel 8,Leather wallet phone case with card holder for Pixel 8.,phone_case,Generic,7.99,4.4,2250,pixel8
+G0380,Speck Slim Case for Pixel 8,Ultra thin slim fit phone case for Pixel 8.,phone_case,Speck,19.99,4.7,1119,pixel8
+G0381,Caseology Slim Case for Pixel 8,Ultra thin slim fit phone case for Pixel 8.,phone_case,Caseology,19.99,4.5,14429,pixel8
+G0382,Brio Slim Case for Pixel 8,Ultra thin slim fit phone case for Pixel 8.,phone_case,Brio,7.99,4.4,3142,pixel8
+G0383,Spigen Leather Case for Pixel 8,Genuine leather phone case for Pixel 8.,phone_case,Spigen,28.99,4.3,30538,pixel8
+G0384,Speck Leather Case for Pixel 8,Genuine leather phone case for Pixel 8.,phone_case,Speck,21.99,4.7,2172,pixel8
+G0385,Lumo Leather Case for Pixel 8,Genuine leather phone case for Pixel 8.,phone_case,Lumo,12.99,4.3,5817,pixel8
+G0386,Google Leather Case for Pixel 8,Genuine leather phone case for Pixel 8.,phone_case,Google,78.99,4.6,18027,pixel8
+G0387,"Zeta Tempered Glass Screen Protector for Pixel 8, 3 Pack",9h tempered glass screen protector for Pixel 8.,screen_protector,Zeta,3.99,4.3,15488,pixel8
+G0388,Spigen Tempered Glass Screen Protector for Pixel 8,9h tempered glass screen protector for Pixel 8.,screen_protector,Spigen,10.99,4.2,419,pixel8
+G0389,"Generic Privacy Screen Protector for Pixel 8, 3 Pack",Anti-spy privacy tempered glass for Pixel 8.,screen_protector,Generic,6.99,4.3,1417,pixel8
+G0390,Spigen Privacy Screen Protector for Pixel 8,Anti-spy privacy tempered glass for Pixel 8.,screen_protector,Spigen,16.99,4.8,1545,pixel8
+G0391,"Lumo Camera Lens Protector for Pixel 8, 3 Pack",Camera lens protector glass for Pixel 8.,screen_protector,Lumo,3.99,4.2,1218,pixel8
+G0392,ESR Camera Lens Protector for Pixel 8,Camera lens protector glass for Pixel 8.,screen_protector,ESR,8.99,4.3,19764,pixel8
+G0393,Spigen Clear Case for Pixel 8 Pro,"Crystal clear protective phone case, anti-yellowing for Pixel 8 Pro.",phone_case,Spigen,15.99,4.4,14413,pixel8pro
+G0394,Caseology Clear Case for Pixel 8 Pro,"Crystal clear protective phone case, anti-yellowing for Pixel 8 Pro.",phone_case,Caseology,20.99,4.5,9229,pixel8pro
+G0395,Lumo Clear Case for Pixel 8 Pro,"Crystal clear protective phone case, anti-yellowing for Pixel 8 Pro.",phone_case,Lumo,9.99,4.2,6436,pixel8pro
+G0396,Google Clear Case for Pixel 8 Pro,"Crystal clear protective phone case, anti-yellowing for Pixel 8 Pro.",phone_case,Google,25.99,4.4,19897,pixel8pro
+G0397,ESR Silicone Case for Pixel 8 Pro,Soft silicone phone case with microfiber lining for Pixel 8 Pro.,phone_case,ESR,16.99,4.1,8644,pixel8pro
+G0398,Caseology Silicone Case for Pixel 8 Pro,Soft silicone phone case with microfiber lining for Pixel 8 Pro.,phone_case,Caseology,19.99,4.5,38526,pixel8pro
+G0399,Lumo Silicone Case for Pixel 8 Pro,Soft silicone phone case with microfiber lining for Pixel 8 Pro.,phone_case,Lumo,5.99,4.1,723,pixel8pro
+G0400,Google Silicone Case for Pixel 8 Pro,Soft silicone phone case with microfiber lining for Pixel 8 Pro.,phone_case,Google,49.99,4.9,2574,pixel8pro
+G0401,Speck Rugged Case for Pixel 8 Pro,"Rugged shockproof phone case, military grade drop protection for Pixel 8 Pro.",phone_case,Speck,30.99,4.5,1174,pixel8pro
+G0402,Belkin Rugged Case for Pixel 8 Pro,"Rugged shockproof phone case, military grade drop protection for Pixel 8 Pro.",phone_case,Belkin,31.99,4.4,15694,pixel8pro
+G0403,Brio Rugged Case for Pixel 8 Pro,"Rugged shockproof phone case, military grade drop protection for Pixel 8 Pro.",phone_case,Brio,9.99,4.0,2561,pixel8pro
+G0404,OtterBox Rugged Case for Pixel 8 Pro,"Rugged shockproof phone case, military grade drop protection for Pixel 8 Pro.",phone_case,OtterBox,65.99,4.4,4833,pixel8pro
+G0405,Spigen Wallet Case for Pixel 8 Pro,Leather wallet phone case with card holder for Pixel 8 Pro.,phone_case,Spigen,20.99,4.7,1906,pixel8pro
+G0406,ESR Wallet Case for Pixel 8 Pro,Leather wallet phone case with card holder for Pixel 8 Pro.,phone_case,ESR,24.99,4.4,194762,pixel8pro
+G0407,Brio Wallet Case for Pixel 8 Pro,Leather wallet phone case with card holder for Pixel 8 Pro.,phone_case,Brio,10.99,4.1,788,pixel8pro
+G0408,Spigen Slim Case for Pixel 8 Pro,Ultra thin slim fit phone case for Pixel 8 Pro.,phone_case,Spigen,15.99,4.7,6572,pixel8pro
+G0409,Caseology Slim Case for Pixel 8 Pro,Ultra thin slim fit phone case for Pixel 8 Pro.,phone_case,Caseology,15.99,4.6,3977,pixel8pro
+G0410,Zeta Slim Case for Pixel 8 Pro,Ultra thin slim fit phone case for Pixel 8 Pro.,phone_case,Zeta,7.99,3.9,3828,pixel8pro
+G0411,ESR Leather Case for Pixel 8 Pro,Genuine leather phone case for Pixel 8 Pro.,phone_case,ESR,31.99,4.3,2261,pixel8pro
+G0412,Belkin Leather Case for Pixel 8 Pro,Genuine leather phone case for Pixel 8 Pro.,phone_case,Belkin,20.99,4.6,1957,pixel8pro
+G0413,Brio Leather Case for Pixel 8 Pro,Genuine leather phone case for Pixel 8 Pro.,phone_case,Brio,13.99,4.2,877,pixel8pro
+G0414,Google Leather Case for Pixel 8 Pro,Genuine leather phone case for Pixel 8 Pro.,phone_case,Google,51.99,4.5,60651,pixel8pro
+G0415,"Zeta Tempered Glass Screen Protector for Pixel 8 Pro, 3 Pack",9h tempered glass screen protector for Pixel 8 Pro.,screen_protector,Zeta,4.99,4.0,5580,pixel8pro
+G0416,Spigen Tempered Glass Screen Protector for Pixel 8 Pro,9h tempered glass screen protector for Pixel 8 Pro.,screen_protector,Spigen,9.99,4.5,47059,pixel8pro
+G0417,"Lumo Privacy Screen Protector for Pixel 8 Pro, 3 Pack",Anti-spy privacy tempered glass for Pixel 8 Pro.,screen_protector,Lumo,5.99,4.3,4918,pixel8pro
+G0418,Speck Privacy Screen Protector for Pixel 8 Pro,Anti-spy privacy tempered glass for Pixel 8 Pro.,screen_protector,Speck,15.99,4.0,5098,pixel8pro
+G0419,"Zeta Camera Lens Protector for Pixel 8 Pro, 3 Pack",Camera lens protector glass for Pixel 8 Pro.,screen_protector,Zeta,3.99,4.2,6772,pixel8pro
+G0420,Spigen Camera Lens Protector for Pixel 8 Pro,Camera lens protector glass for Pixel 8 Pro.,screen_protector,Spigen,8.99,4.6,22975,pixel8pro
+G0421,Generic 20W USB-C Fast Charger,"20W USB-C PD wall charger power adapter, fast charging for phones.",charger,Generic,10.99,4.4,565,any
+G0422,Spigen 20W USB-C Fast Charger,"20W USB-C PD wall charger power adapter, fast charging for phones.",charger,Spigen,20.99,4.7,2163,any
+G0423,Anker 25W USB-C Fast Charger,"25W USB-C PD wall charger power adapter, fast charging for phones.",charger,Anker,24.99,4.5,1408,any
+G0424,Belkin 25W USB-C Fast Charger,"25W USB-C PD wall charger power adapter, fast charging for phones.",charger,Belkin,21.99,4.4,4294,any
+G0425,Spigen 25W USB-C Fast Charger,"25W USB-C PD wall charger power adapter, fast charging for phones.",charger,Spigen,29.99,4.5,23090,any
+G0426,Generic 30W USB-C Fast Charger,"30W USB-C PD wall charger power adapter, fast charging for phones.",charger,Generic,10.99,4.0,1015,any
+G0427,Zeta 30W USB-C Fast Charger,"30W USB-C PD wall charger power adapter, fast charging for phones.",charger,Zeta,10.99,4.2,1061,any
+G0428,Anker 45W USB-C Fast Charger,"45W USB-C PD wall charger power adapter, fast charging for phones, tablets and laptops.",charger,Anker,25.99,4.4,8052,any
+G0429,Belkin 45W USB-C Fast Charger,"45W USB-C PD wall charger power adapter, fast charging for phones, tablets and laptops.",charger,Belkin,28.99,4.5,7247,any
+G0430,Generic 45W USB-C Fast Charger,"45W USB-C PD wall charger power adapter, fast charging for phones, tablets and laptops.",charger,Generic,13.99,4.2,5589,any
+G0431,Zeta 45W USB-C Fast Charger,"45W USB-C PD wall charger power adapter, fast charging for phones, tablets and laptops.",charger,Zeta,11.99,4.2,2740,any
+G0432,Spigen 45W USB-C Fast Charger,"45W USB-C PD wall charger power adapter, fast charging for phones, tablets and laptops.",charger,Spigen,35.99,4.8,2944,any
+G0433,Belkin 65W 3 Port Fast Charger,"65W USB-C PD wall charger power adapter, fast charging for phones, tablets and laptops.",charger,Belkin,32.99,4.6,16169,any
+G0434,Generic 65W 3 Port Fast Charger,"65W USB-C PD wall charger power adapter, fast charging for phones, tablets and laptops.",charger,Generic,19.99,4.1,3117,any
+G0435,Zeta 65W 3 Port Fast Charger,"65W USB-C PD wall charger power adapter, fast charging for phones, tablets and laptops.",charger,Zeta,18.99,4.1,2134,any
+G0436,Spigen 65W 3 Port Fast Charger,"65W USB-C PD wall charger power adapter, fast charging for phones, tablets and laptops.",charger,Spigen,48.99,4.3,8579,any
+G0437,Anker 100W 3 Port Fast Charger,"100W USB-C PD wall charger power adapter, fast charging for phones, tablets and laptops.",charger,Anker,40.99,4.2,15488,any
+G0438,Belkin 100W 3 Port Fast Charger,"100W USB-C PD wall charger power adapter, fast charging for phones, tablets and laptops.",charger,Belkin,82.99,4.6,31141,any
+G0439,Generic 100W 3 Port Fast Charger,"100W USB-C PD wall charger power adapter, fast charging for phones, tablets and laptops.",charger,Generic,20.99,4.0,628,any
+G0440,Zeta 100W 3 Port Fast Charger,"100W USB-C PD wall charger power adapter, fast charging for phones, tablets and laptops.",charger,Zeta,27.99,4.2,1580,any
+G0441,Apple 35W Dual USB-C Port Power Adapter,Official Apple dual port fast charger.,charger,Apple,44.99,4.5,13859,any
+G0442,Samsung 25W Super Fast Charger (2 Pack),Samsung super fast charging 25W USB-C wall charger for Galaxy.,charger,Samsung,57.99,4.7,21046,galaxys22;galaxys23;galaxys24;galaxya54;galaxya15
+G0443,Samsung 45W Super Fast Charger (2 Pack),Samsung super fast charging 45W USB-C wall charger for Galaxy.,charger,Samsung,42.99,4.8,9751,galaxys22;galaxys23;galaxys24;galaxys24ultra
+G0444,Google 30W USB-C Charger,Official Google fast charger for Pixel phones.,charger,Google,30.99,4.6,3912,pixel7;pixel8;pixel8pro
+G0445,Apple MagSafe Wireless Charger,Magnetic wireless charging pad for iPhone with MagSafe.,wireless_charger,Apple,65.99,4.8,13356,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0446,Belkin MagSafe Wireless Charger,Magnetic wireless charging pad for iPhone with MagSafe.,wireless_charger,Belkin,22.99,4.6,3213,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0447,Anker MagSafe Wireless Charger,Magnetic wireless charging pad for iPhone with MagSafe.,wireless_charger,Anker,42.99,4.5,13929,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0448,ESR MagSafe Wireless Charger,Magnetic wireless charging pad for iPhone with MagSafe.,wireless_charger,ESR,32.99,4.6,4121,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0449,Generic MagSafe Wireless Charger,Magnetic wireless charging pad for iPhone with MagSafe.,wireless_charger,Generic,19.99,4.2,704,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0450,Lumo MagSafe Wireless Charger,Magnetic wireless charging pad for iPhone with MagSafe.,wireless_charger,Lumo,14.99,4.1,924,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0451,Belkin 3-in-1 MagSafe Charging Station,"Wireless charging stand for iPhone, Apple Watch and AirPods.",wireless_charger,Belkin,63.99,4.0,25092,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0452,Anker 3-in-1 MagSafe Charging Station,"Wireless charging stand for iPhone, Apple Watch and AirPods.",wireless_charger,Anker,68.99,4.4,2110,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0453,Nomad 3-in-1 MagSafe Charging Station,"Wireless charging stand for iPhone, Apple Watch and AirPods.",wireless_charger,Nomad,206.99,4.4,6164,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0454,Anker 15W Qi Wireless Charging Pad,"Universal Qi wireless charger pad for iPhone, Galaxy and Pixel.",wireless_charger,Anker,23.99,4.5,3719,any
+G0455,Generic 15W Qi Wireless Charging Pad,"Universal Qi wireless charger pad for iPhone, Galaxy and Pixel.",wireless_charger,Generic,10.99,4.0,1665,any
+G0456,Zeta 15W Qi Wireless Charging Pad,"Universal Qi wireless charger pad for iPhone, Galaxy and Pixel.",wireless_charger,Zeta,13.99,3.8,901,any
+G0457,Belkin 15W Qi Wireless Charging Pad,"Universal Qi wireless charger pad for iPhone, Galaxy and Pixel.",wireless_charger,Belkin,27.99,4.3,18750,any
+G0458,Brio 15W Qi Wireless Charging Pad,"Universal Qi wireless charger pad for iPhone, Galaxy and Pixel.",wireless_charger,Brio,8.99,4.3,336,any
+G0459,Samsung 15W Wireless Charger Duo,Samsung wireless charging pad for Galaxy phone and Galaxy Watch.,wireless_charger,Samsung,118.99,4.5,9597,galaxys22;galaxys23;galaxys24;galaxys24ultra;galaxya15;galaxya54
+G0460,Google Pixel Stand 2,Wireless charging stand for Pixel.,wireless_charger,Google,169.99,4.8,14032,pixel8;pixel8pro
+G0461,Apple USB-C to USB-C Cable 10ft,"Fast charging USB-C cable 10ft for Galaxy, Pixel, iPhone 15 and laptops.",cable,Apple,39.99,4.6,3718,any
+G0462,Belkin USB-C to USB-C Cable 6ft,"Fast charging USB-C cable 6ft for Galaxy, Pixel, iPhone 15 and laptops.",cable,Belkin,13.99,4.4,3514,any
+G0463,Belkin USB-C to USB-C Cable 10ft,"Fast charging USB-C cable 10ft for Galaxy, Pixel, iPhone 15 and laptops.",cable,Belkin,13.99,4.3,1053,any
+G0464,Zeta USB-C to USB-C Cable 10ft,"Fast charging USB-C cable 10ft for Galaxy, Pixel, iPhone 15 and laptops.",cable,Zeta,5.99,3.8,1716,any
+G0465,Samsung USB-C to USB-C Cable 6ft,"Fast charging USB-C cable 6ft for Galaxy, Pixel, iPhone 15 and laptops.",cable,Samsung,25.99,4.5,18471,any
+G0466,Samsung USB-C to USB-C Cable 10ft,"Fast charging USB-C cable 10ft for Galaxy, Pixel, iPhone 15 and laptops.",cable,Samsung,39.99,4.5,4694,any
+G0467,Lumo USB-C to USB-C Cable 3ft,"Fast charging USB-C cable 3ft for Galaxy, Pixel, iPhone 15 and laptops.",cable,Lumo,3.99,4.1,408,any
+G0468,Lumo USB-C to USB-C Cable 6ft,"Fast charging USB-C cable 6ft for Galaxy, Pixel, iPhone 15 and laptops.",cable,Lumo,8.99,3.9,19089,any
+G0469,Lumo USB-C to USB-C Cable 10ft,"Fast charging USB-C cable 10ft for Galaxy, Pixel, iPhone 15 and laptops.",cable,Lumo,5.99,4.2,1749,any
+G0470,Apple USB-C to Lightning Cable 3ft,"MFi certified Lightning charging cable for iPhone 14 and earlier, 3ft.",cable,Apple,27.99,4.1,1691,iphone13;iphone14
+G0471,Apple USB-C to Lightning Cable 6ft,"MFi certified Lightning charging cable for iPhone 14 and earlier, 6ft.",cable,Apple,20.99,4.6,3260,iphone13;iphone14
+G0472,Anker USB-C to Lightning Cable 3ft,"MFi certified Lightning charging cable for iPhone 14 and earlier, 3ft.",cable,Anker,13.99,4.3,13872,iphone13;iphone14
+G0473,Anker USB-C to Lightning Cable 6ft,"MFi certified Lightning charging cable for iPhone 14 and earlier, 6ft.",cable,Anker,11.99,4.4,2866,iphone13;iphone14
+G0474,Belkin USB-C to Lightning Cable 3ft,"MFi certified Lightning charging cable for iPhone 14 and earlier, 3ft.",cable,Belkin,14.99,4.3,29629,iphone13;iphone14
+G0475,Belkin USB-C to Lightning Cable 6ft,"MFi certified Lightning charging cable for iPhone 14 and earlier, 6ft.",cable,Belkin,14.99,4.6,29695,iphone13;iphone14
+G0476,Generic USB-C to Lightning Cable 3ft,"MFi certified Lightning charging cable for iPhone 14 and earlier, 3ft.",cable,Generic,4.99,4.1,8767,iphone13;iphone14
+G0477,Generic USB-C to Lightning Cable 6ft,"MFi certified Lightning charging cable for iPhone 14 and earlier, 6ft.",cable,Generic,4.99,4.2,637,iphone13;iphone14
+G0478,Brio USB-C to Lightning Cable 3ft,"MFi certified Lightning charging cable for iPhone 14 and earlier, 3ft.",cable,Brio,4.99,3.9,4509,iphone13;iphone14
+G0479,Brio USB-C to Lightning Cable 6ft,"MFi certified Lightning charging cable for iPhone 14 and earlier, 6ft.",cable,Brio,5.99,4.4,780,iphone13;iphone14
+G0480,Generic Micro USB Cable 3 Pack,Micro USB charging cable for older Android phones and speakers.,cable,Generic,3.99,4.3,3454,legacy
+G0481,Zeta Micro USB Cable 3 Pack,Micro USB charging cable for older Android phones and speakers.,cable,Zeta,3.99,4.2,285,legacy
+G0482,Apple AirPods Pro 2,"Wireless earbuds with active noise cancellation, Bluetooth, charging case.",earbuds,Apple,445.99,4.7,5634,any
+G0483,Apple AirPods 4,"Wireless earbuds with active noise cancellation, Bluetooth, charging case.",earbuds,Apple,353.99,4.6,2877,any
+G0484,Samsung Galaxy Buds3 Pro,"Wireless earbuds with active noise cancellation, Bluetooth, charging case.",earbuds,Samsung,607.99,4.5,1474,any
+G0485,Samsung Galaxy Buds FE,"Wireless earbuds with active noise cancellation, Bluetooth, charging case.",earbuds,Samsung,191.99,4.6,2328,any
+G0486,Google Pixel Buds Pro 2,"Wireless earbuds with active noise cancellation, Bluetooth, charging case.",earbuds,Google,490.99,4.5,50514,any
+G0487,Sony WF-1000XM5 Noise Cancelling Earbuds,"Wireless earbuds with active noise cancellation, Bluetooth, charging case.",earbuds,Sony,730.99,4.5,2506,any
+G0488,Bose QuietComfort Ultra Earbuds,"Wireless earbuds with active noise cancellation, Bluetooth, charging case.",earbuds,Bose,769.99,4.7,886,any
+G0489,Anker Soundcore Liberty 4 NC Earbuds,"Wireless earbuds, Bluetooth, charging case.",earbuds,Anker,76.99,4.4,14575,any
+G0490,Anker Soundcore P20i Earbuds,"Wireless earbuds, Bluetooth, charging case.",earbuds,Anker,24.99,4.3,2290,any
+G0491,Generic Wireless Earbuds Bluetooth 5.3,Budget wireless earbuds bluetooth 5.3 with mic and charging case.,earbuds,Generic,23.99,4.1,277,any
+G0492,Generic Noise Cancelling Wireless Earbuds,Budget noise cancelling wireless earbuds with mic and charging case.,earbuds,Generic,17.99,4.1,5447,any
+G0493,Lumo Wireless Earbuds Bluetooth 5.3,Budget wireless earbuds bluetooth 5.3 with mic and charging case.,earbuds,Lumo,19.99,3.7,903,any
+G0494,Lumo Noise Cancelling Wireless Earbuds,Budget noise cancelling wireless earbuds with mic and charging case.,earbuds,Lumo,24.99,3.7,1941,any
+G0495,Lumo Sports Wireless Earbuds with Ear Hooks,Budget sports wireless earbuds with ear hooks with mic and charging case.,earbuds,Lumo,18.99,4.2,2432,any
+G0496,Zeta Sports Wireless Earbuds with Ear Hooks,Budget sports wireless earbuds with ear hooks with mic and charging case.,earbuds,Zeta,23.99,4.3,549,any
+G0497,Brio Wireless Earbuds Bluetooth 5.3,Budget wireless earbuds bluetooth 5.3 with mic and charging case.,earbuds,Brio,29.99,4.1,3418,any
+G0498,Brio Noise Cancelling Wireless Earbuds,Budget noise cancelling wireless earbuds with mic and charging case.,earbuds,Brio,21.99,3.9,481,any
+G0499,Anker 5000mAh Power Bank,Portable charger battery pack 5000mAh with USB-C fast charging.,power_bank,Anker,17.99,4.5,1516,any
+G0500,Anker 10000mAh Power Bank,Portable charger battery pack 10000mAh with USB-C fast charging.,power_bank,Anker,28.99,4.0,1516,any
+G0501,Belkin 5000mAh Power Bank,Portable charger battery pack 5000mAh with USB-C fast charging.,power_bank,Belkin,11.99,4.3,12382,any
+G0502,Belkin 10000mAh Power Bank,Portable charger battery pack 10000mAh with USB-C fast charging.,power_bank,Belkin,26.99,4.4,5933,any
+G0503,Belkin 20000mAh Power Bank,Portable charger battery pack 20000mAh with USB-C fast charging.,power_bank,Belkin,68.99,4.4,500,any
+G0504,Zeta 20000mAh Power Bank,Portable charger battery pack 20000mAh with USB-C fast charging.,power_bank,Zeta,24.99,4.4,2979,any
+G0505,Lumo 5000mAh Power Bank,Portable charger battery pack 5000mAh with USB-C fast charging.,power_bank,Lumo,6.99,4.2,3528,any
+G0506,Lumo 10000mAh Power Bank,Portable charger battery pack 10000mAh with USB-C fast charging.,power_bank,Lumo,11.99,4.1,1723,any
+G0507,Lumo 20000mAh Power Bank,Portable charger battery pack 20000mAh with USB-C fast charging.,power_bank,Lumo,17.99,4.1,861,any
+G0508,Samsung 10000mAh Power Bank,Portable charger battery pack 10000mAh with USB-C fast charging.,power_bank,Samsung,77.99,4.7,9925,any
+G0509,Samsung 20000mAh Power Bank,Portable charger battery pack 20000mAh with USB-C fast charging.,power_bank,Samsung,149.99,4.6,9219,any
+G0510,Anker Magnetic MagSafe Power Bank 5000mAh,Magnetic wireless portable charger for iPhone MagSafe.,power_bank,Anker,38.99,4.7,7077,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0511,ESR Magnetic MagSafe Power Bank 5000mAh,Magnetic wireless portable charger for iPhone MagSafe.,power_bank,ESR,38.99,4.5,135,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0512,Belkin Magnetic MagSafe Power Bank 5000mAh,Magnetic wireless portable charger for iPhone MagSafe.,power_bank,Belkin,46.99,4.4,12022,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0513,Generic Magnetic MagSafe Power Bank 5000mAh,Magnetic wireless portable charger for iPhone MagSafe.,power_bank,Generic,19.99,4.2,13335,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0514,Apple Sport Band for Apple Watch,Sport Band compatible with Apple Watch.,watch_band,Apple,56.99,4.7,5280,applewatch
+G0515,Brio Sport Band for Apple Watch,Sport Band compatible with Apple Watch.,watch_band,Brio,5.99,4.0,3700,applewatch
+G0516,Anker Sport Band for Apple Watch,Sport Band compatible with Apple Watch.,watch_band,Anker,17.99,4.0,13499,applewatch
+G0517,Zeta Nylon Sport Loop for Apple Watch,Nylon Sport Loop compatible with Apple Watch.,watch_band,Zeta,8.99,3.6,1555,applewatch
+G0518,Caseology Nylon Sport Loop for Apple Watch,Nylon Sport Loop compatible with Apple Watch.,watch_band,Caseology,20.99,4.6,10550,applewatch
+G0519,Apple Leather Band for Apple Watch,Leather Band compatible with Apple Watch.,watch_band,Apple,60.99,4.5,2871,applewatch
+G0520,Lumo Leather Band for Apple Watch,Leather Band compatible with Apple Watch.,watch_band,Lumo,14.99,4.2,360,applewatch
+G0521,Speck Leather Band for Apple Watch,Leather Band compatible with Apple Watch.,watch_band,Speck,27.99,4.5,11096,applewatch
+G0522,Lumo Metal Link Band for Apple Watch,Metal Link Band compatible with Apple Watch.,watch_band,Lumo,12.99,4.3,8883,applewatch
+G0523,Spigen Metal Link Band for Apple Watch,Metal Link Band compatible with Apple Watch.,watch_band,Spigen,19.99,4.8,48469,applewatch
+G0524,Brio Silicone Bands 3 Pack for Apple Watch,Silicone Bands 3 Pack compatible with Apple Watch.,watch_band,Brio,6.99,4.2,2832,applewatch
+G0525,Speck Silicone Bands 3 Pack for Apple Watch,Silicone Bands 3 Pack compatible with Apple Watch.,watch_band,Speck,15.99,4.5,6125,applewatch
+G0526,Samsung Sport Band for Galaxy Watch,Sport Band compatible with Galaxy Watch.,watch_band,Samsung,41.99,4.4,4942,galaxywatch
+G0527,Lumo Sport Band for Galaxy Watch,Sport Band compatible with Galaxy Watch.,watch_band,Lumo,8.99,4.2,17114,galaxywatch
+G0528,Spigen Sport Band for Galaxy Watch,Sport Band compatible with Galaxy Watch.,watch_band,Spigen,16.99,4.5,9315,galaxywatch
+G0529,Zeta Nylon Sport Loop for Galaxy Watch,Nylon Sport Loop compatible with Galaxy Watch.,watch_band,Zeta,8.99,4.4,4753,galaxywatch
+G0530,ESR Nylon Sport Loop for Galaxy Watch,Nylon Sport Loop compatible with Galaxy Watch.,watch_band,ESR,15.99,4.5,465,galaxywatch
+G0531,Samsung Leather Band for Galaxy Watch,Leather Band compatible with Galaxy Watch.,watch_band,Samsung,64.99,4.8,4323,galaxywatch
+G0532,Generic Leather Band for Galaxy Watch,Leather Band compatible with Galaxy Watch.,watch_band,Generic,14.99,4.4,320,galaxywatch
+G0533,Belkin Leather Band for Galaxy Watch,Leather Band compatible with Galaxy Watch.,watch_band,Belkin,37.99,4.6,14914,galaxywatch
+G0534,Lumo Metal Link Band for Galaxy Watch,Metal Link Band compatible with Galaxy Watch.,watch_band,Lumo,11.99,3.7,3107,galaxywatch
+G0535,Belkin Metal Link Band for Galaxy Watch,Metal Link Band compatible with Galaxy Watch.,watch_band,Belkin,21.99,4.8,30862,galaxywatch
+G0536,Zeta Silicone Bands 3 Pack for Galaxy Watch,Silicone Bands 3 Pack compatible with Galaxy Watch.,watch_band,Zeta,7.99,4.3,4124,galaxywatch
+G0537,Belkin Silicone Bands 3 Pack for Galaxy Watch,Silicone Bands 3 Pack compatible with Galaxy Watch.,watch_band,Belkin,23.99,4.6,2085,galaxywatch
+G0538,ESR MagSafe Car Vent Mount,Magnetic car phone mount for iPhone MagSafe.,car_mount,ESR,16.99,4.3,11083,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0539,Belkin MagSafe Car Vent Mount,Magnetic car phone mount for iPhone MagSafe.,car_mount,Belkin,29.99,4.0,3537,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0540,Anker MagSafe Car Vent Mount,Magnetic car phone mount for iPhone MagSafe.,car_mount,Anker,26.99,4.7,1838,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0541,Generic MagSafe Car Vent Mount,Magnetic car phone mount for iPhone MagSafe.,car_mount,Generic,11.99,4.1,2051,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0542,Generic Universal Car Phone Holder,"Adjustable clamp car vent and dashboard phone mount, fits any phone.",car_mount,Generic,6.99,4.1,991,any
+G0543,Zeta Universal Car Phone Holder,"Adjustable clamp car vent and dashboard phone mount, fits any phone.",car_mount,Zeta,7.99,4.0,1715,any
+G0544,Lumo Universal Car Phone Holder,"Adjustable clamp car vent and dashboard phone mount, fits any phone.",car_mount,Lumo,5.99,4.3,2048,any
+G0545,Brio Universal Car Phone Holder,"Adjustable clamp car vent and dashboard phone mount, fits any phone.",car_mount,Brio,8.99,4.1,1873,any
+G0546,Spigen Universal Car Phone Holder,"Adjustable clamp car vent and dashboard phone mount, fits any phone.",car_mount,Spigen,16.99,4.5,4242,any
+G0547,Generic Wireless Charging Car Mount Auto Clamp,15W Qi wireless charging car mount for iPhone and Galaxy.,car_mount,Generic,19.99,4.3,1112,any
+G0548,Anker Wireless Charging Car Mount Auto Clamp,15W Qi wireless charging car mount for iPhone and Galaxy.,car_mount,Anker,36.99,4.3,28373,any
+G0549,PopSockets MagSafe Phone Grip and Stand,Magnetic phone grip for iPhone MagSafe.,phone_grip,PopSockets,18.99,4.3,4680,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0550,PopSockets Phone Grip and Stand,Adhesive phone grip and stand for any phone.,phone_grip,PopSockets,15.99,4.5,4749,any
+G0551,Generic MagSafe Phone Grip and Stand,Magnetic phone grip for iPhone MagSafe.,phone_grip,Generic,8.99,4.0,1524,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0552,Generic Phone Grip and Stand,Adhesive phone grip and stand for any phone.,phone_grip,Generic,4.99,4.2,515,any
+G0553,ESR MagSafe Phone Grip and Stand,Magnetic phone grip for iPhone MagSafe.,phone_grip,ESR,16.99,4.4,2280,iphone13;iphone14;iphone15;iphone15pro;iphone15promax;iphone16
+G0554,ESR Phone Grip and Stand,Adhesive phone grip and stand for any phone.,phone_grip,ESR,12.99,4.9,5485,any
+G0555,Generic Adjustable Phone Stand for Desk,Aluminum cell phone stand holder for any phone.,phone_stand,Generic,7.99,4.0,2560,any
+G0556,Lumo Adjustable Phone Stand for Desk,Aluminum cell phone stand holder for any phone.,phone_stand,Lumo,4.99,4.3,4930,any
+G0557,Anker Adjustable Phone Stand for Desk,Aluminum cell phone stand holder for any phone.,phone_stand,Anker,16.99,4.6,1966,any
+G0558,Belkin Adjustable Phone Stand for Desk,Aluminum cell phone stand holder for any phone.,phone_stand,Belkin,20.99,4.3,37628,any
+G0559,ESR Case for iPad 10th Gen,Trifold stand tablet case for iPad 10th Gen.,tablet_case,ESR,22.99,4.3,4487,tablet
+G0560,Generic Case for iPad 10th Gen,Trifold stand tablet case for iPad 10th Gen.,tablet_case,Generic,12.99,4.6,6909,tablet
+G0561,ESR Case for iPad Air,Trifold stand tablet case for iPad Air.,tablet_case,ESR,14.99,4.3,11559,tablet
+G0562,Generic Case for iPad Air,Trifold stand tablet case for iPad Air.,tablet_case,Generic,6.99,4.1,1105,tablet
+G0563,ESR Case for Galaxy Tab S9,Trifold stand tablet case for Galaxy Tab S9.,tablet_case,ESR,19.99,4.4,45781,tablet
+G0564,Generic Case for Galaxy Tab S9,Trifold stand tablet case for Galaxy Tab S9.,tablet_case,Generic,7.99,4.2,2151,tablet
+G0565,ESR Case for Galaxy Tab A9,Trifold stand tablet case for Galaxy Tab A9.,tablet_case,ESR,21.99,4.2,9908,tablet
+G0566,Generic Case for Galaxy Tab A9,Trifold stand tablet case for Galaxy Tab A9.,tablet_case,Generic,10.99,4.0,1393,tablet
+G0567,Samsung Galaxy A15 Unlocked Phone,Unlocked cell phone.,phone,Samsung,751.99,4.4,36644,self
+G0568,Google Pixel 8a Unlocked Phone,Unlocked cell phone.,phone,Google,1145.99,4.4,7605,self
+G0569,Generic Refurbished iPhone 13 128GB,Unlocked cell phone.,phone,Generic,130.99,4.1,758,self
+G0570,Generic Phone Case Charm Strap,Beaded phone case charm and lanyard.,phone_charm,Generic,3.99,4.5,1359,any
+G0571,Lumo Phone Case Charm Strap,Beaded phone case charm and lanyard.,phone_charm,Lumo,3.99,4.0,4023,any

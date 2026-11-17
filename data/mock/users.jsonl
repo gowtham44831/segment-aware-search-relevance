@@ -1,0 +1,20 @@
+{"user_id": "U01", "segment": "apple_premium", "devices": ["iphone15", "applewatch"], "history": ["CASE-IP15-SIL", "CHG-MAG-APL", "WAT-AW-SPT", "AUD-APP-PRO2", "CBL-C2C-APL"]}
+{"user_id": "U02", "segment": "apple_premium", "devices": ["iphone15"], "history": ["CHG-APL-20W", "CASE-IP15-CLR", "AUD-APP-4", "GRP-POP-MAG"]}
+{"user_id": "U03", "segment": "apple_premium", "devices": ["iphone14", "applewatch"], "history": ["CASE-IP14-OTB", "CBL-C2L-APL", "WAT-AW-SPT", "CHG-APL-20W"]}
+{"user_id": "U04", "segment": "apple_premium", "devices": ["iphone15promax"], "history": ["CASE-IP15PM-CLR", "CHG-MAG-BEL", "AUD-APP-PRO2"]}
+{"user_id": "U05", "segment": "apple_premium", "devices": ["iphone15", "applewatch"], "history": ["WAT-AW-SPT", "CASE-IP15-SIL", "PWR-MAG-ANK"]}
+{"user_id": "U06", "segment": "samsung_loyal", "devices": ["galaxys24", "galaxywatch"], "history": ["CASE-S24-SIL", "CHG-SAM-45W", "WAT-GW-SPT", "AUD-SAM-BUD3P"]}
+{"user_id": "U07", "segment": "samsung_loyal", "devices": ["galaxys24"], "history": ["CASE-S24-CLR", "CHG-SAM-25W", "CBL-C2C-SAM"]}
+{"user_id": "U08", "segment": "samsung_loyal", "devices": ["galaxys23", "galaxywatch"], "history": ["CASE-S23-OTB", "WAT-GW-SPT", "CHG-SAM-25W"]}
+{"user_id": "U09", "segment": "samsung_loyal", "devices": ["galaxys24", "galaxywatch"], "history": ["SCR-S24-FLM", "AUD-SAM-FE", "CHG-SAM-WL", "WAT-GW-GEN"]}
+{"user_id": "U10", "segment": "samsung_loyal", "devices": ["galaxys23"], "history": ["CHG-SAM-45W", "PWR-SAM-10K"]}
+{"user_id": "U11", "segment": "budget", "devices": ["iphone14"], "history": ["CASE-IP14-BUD", "CBL-C2L-GEN", "CHG-GEN-20W"]}
+{"user_id": "U12", "segment": "budget", "devices": ["galaxys24"], "history": ["CASE-S24-BUD", "CHG-GEN-20W", "AUD-GEN-BUD"]}
+{"user_id": "U13", "segment": "budget", "devices": ["pixel8"], "history": ["CASE-PX8-CLR", "CBL-C2C-ANK", "PWR-GEN-20K"]}
+{"user_id": "U14", "segment": "budget", "devices": ["iphone15", "applewatch"], "history": ["CASE-IP15-BUD", "WAT-AW-GEN", "SCR-IP15-GLS"]}
+{"user_id": "U15", "segment": "budget", "devices": ["galaxys23", "galaxywatch"], "history": ["WAT-GW-GEN", "CHG-GEN-20W", "AUD-GEN-BUD"]}
+{"user_id": "U16", "segment": "multi_device", "devices": ["iphone15", "galaxys24"], "history": ["CHG-ANK-65W", "CBL-C2C-ANK", "CASE-IP15-CLR", "CASE-S24-CLR", "PWR-ANK-10K", "AUD-SNY-XM5"]}
+{"user_id": "U17", "segment": "multi_device", "devices": ["iphone14", "galaxys23", "applewatch"], "history": ["CBL-C2L-APL", "CASE-S23-OTB", "CHG-ANK-65W", "WAT-AW-SPT", "CHG-QI-GEN"]}
+{"user_id": "U18", "segment": "multi_device", "devices": ["iphone15", "pixel8"], "history": ["CASE-PX8-CLR", "SCR-IP15-GLS", "AUD-SDC-LIB", "CBL-C2C-ANK", "STD-UNI-ADJ"]}
+{"user_id": "U19", "segment": "multi_device", "devices": ["galaxys24", "iphone15promax"], "history": ["CASE-IP15PM-CLR", "CASE-S24-SIL", "CHG-ANK-65W", "CAR-WL-AUT"]}
+{"user_id": "U20", "segment": "multi_device", "devices": ["iphone15", "galaxys24", "galaxywatch"], "history": ["CHG-QI-GEN", "WAT-GW-SPT", "PWR-ANK-10K", "CASE-IP15-SIL", "CASE-S24-CLR", "AUD-SAM-BUD3P"]}

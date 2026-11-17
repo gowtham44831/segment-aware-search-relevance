@@ -1,0 +1,220 @@
+{"user_id": "U01", "segment": "apple_premium", "devices": ["iphone15", "applewatch"], "history": ["CASE-IP15-SIL", "CHG-MAG-APL", "WAT-AW-SPT", "AUD-APP-PRO2", "CBL-C2C-APL"]}
+{"user_id": "U02", "segment": "apple_premium", "devices": ["iphone15"], "history": ["CHG-APL-20W", "CASE-IP15-CLR", "AUD-APP-4", "GRP-POP-MAG"]}
+{"user_id": "U03", "segment": "apple_premium", "devices": ["iphone14", "applewatch"], "history": ["CASE-IP14-OTB", "CBL-C2L-APL", "WAT-AW-SPT", "CHG-APL-20W"]}
+{"user_id": "U04", "segment": "apple_premium", "devices": ["iphone15promax"], "history": ["CASE-IP15PM-CLR", "CHG-MAG-BEL", "AUD-APP-PRO2"]}
+{"user_id": "U05", "segment": "apple_premium", "devices": ["iphone15", "applewatch"], "history": ["WAT-AW-SPT", "CASE-IP15-SIL", "PWR-MAG-ANK"]}
+{"user_id": "U06", "segment": "samsung_loyal", "devices": ["galaxys24", "galaxywatch"], "history": ["CASE-S24-SIL", "CHG-SAM-45W", "WAT-GW-SPT", "AUD-SAM-BUD3P"]}
+{"user_id": "U07", "segment": "samsung_loyal", "devices": ["galaxys24"], "history": ["CASE-S24-CLR", "CHG-SAM-25W", "CBL-C2C-SAM"]}
+{"user_id": "U08", "segment": "samsung_loyal", "devices": ["galaxys23", "galaxywatch"], "history": ["CASE-S23-OTB", "WAT-GW-SPT", "CHG-SAM-25W"]}
+{"user_id": "U09", "segment": "samsung_loyal", "devices": ["galaxys24", "galaxywatch"], "history": ["SCR-S24-FLM", "AUD-SAM-FE", "CHG-SAM-WL", "WAT-GW-GEN"]}
+{"user_id": "U10", "segment": "samsung_loyal", "devices": ["galaxys23"], "history": ["CHG-SAM-45W", "PWR-SAM-10K"]}
+{"user_id": "U11", "segment": "budget", "devices": ["iphone14"], "history": ["CASE-IP14-BUD", "CBL-C2L-GEN", "CHG-GEN-20W"]}
+{"user_id": "U12", "segment": "budget", "devices": ["galaxys24"], "history": ["CASE-S24-BUD", "CHG-GEN-20W", "AUD-GEN-BUD"]}
+{"user_id": "U13", "segment": "budget", "devices": ["pixel8"], "history": ["CASE-PX8-CLR", "CBL-C2C-ANK", "PWR-GEN-20K"]}
+{"user_id": "U14", "segment": "budget", "devices": ["iphone15", "applewatch"], "history": ["CASE-IP15-BUD", "WAT-AW-GEN", "SCR-IP15-GLS"]}
+{"user_id": "U15", "segment": "budget", "devices": ["galaxys23", "galaxywatch"], "history": ["WAT-GW-GEN", "CHG-GEN-20W", "AUD-GEN-BUD"]}
+{"user_id": "U16", "segment": "multi_device", "devices": ["iphone15", "galaxys24"], "history": ["CHG-ANK-65W", "CBL-C2C-ANK", "CASE-IP15-CLR", "CASE-S24-CLR", "PWR-ANK-10K", "AUD-SNY-XM5"]}
+{"user_id": "U17", "segment": "multi_device", "devices": ["iphone14", "galaxys23", "applewatch"], "history": ["CBL-C2L-APL", "CASE-S23-OTB", "CHG-ANK-65W", "WAT-AW-SPT", "CHG-QI-GEN"]}
+{"user_id": "U18", "segment": "multi_device", "devices": ["iphone15", "pixel8"], "history": ["CASE-PX8-CLR", "SCR-IP15-GLS", "AUD-SDC-LIB", "CBL-C2C-ANK", "STD-UNI-ADJ"]}
+{"user_id": "U19", "segment": "multi_device", "devices": ["galaxys24", "iphone15promax"], "history": ["CASE-IP15PM-CLR", "CASE-S24-SIL", "CHG-ANK-65W", "CAR-WL-AUT"]}
+{"user_id": "U20", "segment": "multi_device", "devices": ["iphone15", "galaxys24", "galaxywatch"], "history": ["CHG-QI-GEN", "WAT-GW-SPT", "PWR-ANK-10K", "CASE-IP15-SIL", "CASE-S24-CLR", "AUD-SAM-BUD3P"]}
+{"user_id": "S001", "segment": "apple_premium", "devices": ["iphone15", "applewatch"], "history": ["G0461", "CAR-MAG-ESR", "G0445", "SCR-IP15-GLS"]}
+{"user_id": "S002", "segment": "apple_premium", "devices": ["iphone16", "applewatch"], "history": ["G0142", "G0445", "CHG-APL-20W", "G0164", "G0148", "G0166", "WAT-AW-GEN"]}
+{"user_id": "S003", "segment": "apple_premium", "devices": ["iphone15", "applewatch"], "history": ["G0425", "G0082", "G0078"]}
+{"user_id": "S004", "segment": "apple_premium", "devices": ["iphone15"], "history": ["G0538", "G0482", "G0451", "G0486"]}
+{"user_id": "S005", "segment": "apple_premium", "devices": ["iphone16", "applewatch"], "history": ["G0484", "G0430", "G0452", "G0509", "G0518", "G0513", "G0445"]}
+{"user_id": "S006", "segment": "apple_premium", "devices": ["iphone15", "applewatch"], "history": ["G0445", "G0546", "G0060"]}
+{"user_id": "S007", "segment": "apple_premium", "devices": ["iphone16"], "history": ["G0445", "G0430", "G0436", "G0540", "G0427"]}
+{"user_id": "S008", "segment": "apple_premium", "devices": ["iphone15", "applewatch"], "history": ["WAT-AW-SPT", "G0447", "G0062", "G0466"]}
+{"user_id": "S009", "segment": "apple_premium", "devices": ["iphone15promax", "applewatch"], "history": ["G0137", "G0138", "G0438", "G0506", "G0483"]}
+{"user_id": "S010", "segment": "apple_premium", "devices": ["iphone15pro", "applewatch"], "history": ["G0107", "CAR-WL-AUT", "G0440", "G0109"]}
+{"user_id": "S011", "segment": "apple_premium", "devices": ["iphone15promax", "applewatch"], "history": ["CBL-C2C-ANK", "G0137", "CHG-APL-20W", "G0438", "G0140"]}
+{"user_id": "S012", "segment": "apple_premium", "devices": ["iphone15pro"], "history": ["G0426", "CHG-APL-20W", "G0111"]}
+{"user_id": "S013", "segment": "apple_premium", "devices": ["iphone16"], "history": ["G0445", "G0550", "G0148", "G0438"]}
+{"user_id": "S014", "segment": "apple_premium", "devices": ["iphone15"], "history": ["G0075", "G0453", "G0445", "G0447"]}
+{"user_id": "S015", "segment": "apple_premium", "devices": ["iphone16"], "history": ["G0441", "G0461", "G0166", "G0464", "GRP-POP-STD"]}
+{"user_id": "S016", "segment": "apple_premium", "devices": ["iphone15pro"], "history": ["G0466", "G0108", "G0092", "G0510", "G0095"]}
+{"user_id": "S017", "segment": "apple_premium", "devices": ["iphone14", "applewatch"], "history": ["G0050", "G0475", "GRP-POP-MAG", "G0474", "G0553", "G0056"]}
+{"user_id": "S018", "segment": "apple_premium", "devices": ["iphone15promax", "applewatch"], "history": ["G0445", "G0540", "CHG-MAG-BEL", "G0127", "G0122", "G0441", "G0553"]}
+{"user_id": "S019", "segment": "apple_premium", "devices": ["iphone15pro", "applewatch"], "history": ["G0111", "G0482", "WAT-AW-SPT"]}
+{"user_id": "S020", "segment": "apple_premium", "devices": ["iphone15pro"], "history": ["G0553", "G0108", "G0486", "G0098"]}
+{"user_id": "S021", "segment": "apple_premium", "devices": ["iphone14"], "history": ["CHG-MAG-BEL", "AUD-APP-PRO2", "G0483", "G0546"]}
+{"user_id": "S022", "segment": "apple_premium", "devices": ["iphone15pro"], "history": ["G0540", "G0553", "G0106", "G0453", "G0108"]}
+{"user_id": "S023", "segment": "apple_premium", "devices": ["iphone14", "applewatch"], "history": ["CASE-UNI-POUCH", "CAR-MAG-ESR", "AUD-SNY-XM5", "G0441", "G0513", "GRP-POP-MAG"]}
+{"user_id": "S024", "segment": "apple_premium", "devices": ["iphone15", "applewatch"], "history": ["G0078", "WAT-AW-GEN", "G0424"]}
+{"user_id": "S025", "segment": "apple_premium", "devices": ["iphone15", "applewatch"], "history": ["G0082", "G0434", "G0514"]}
+{"user_id": "S026", "segment": "apple_premium", "devices": ["iphone15promax", "applewatch"], "history": ["G0432", "G0114", "CHG-APL-20W", "GRP-POP-MAG", "G0484", "G0120", "G0140"]}
+{"user_id": "S027", "segment": "apple_premium", "devices": ["iphone16", "applewatch"], "history": ["G0427", "G0523", "G0512", "G0538"]}
+{"user_id": "S028", "segment": "apple_premium", "devices": ["iphone15promax", "applewatch"], "history": ["G0140", "G0445", "G0134", "CHG-MAG-APL"]}
+{"user_id": "S029", "segment": "apple_premium", "devices": ["iphone16", "applewatch"], "history": ["G0144", "G0483"]}
+{"user_id": "S030", "segment": "apple_premium", "devices": ["iphone16"], "history": ["G0141", "G0445", "G0463"]}
+{"user_id": "S031", "segment": "apple_premium", "devices": ["iphone15pro"], "history": ["G0106", "G0103", "G0094", "G0445", "G0550", "AUD-APP-4"]}
+{"user_id": "S032", "segment": "apple_premium", "devices": ["iphone15", "applewatch"], "history": ["G0060", "GRP-POP-STD", "G0541", "CASE-IP15-SIL", "G0553", "SCR-IP15-GLS"]}
+{"user_id": "S033", "segment": "apple_premium", "devices": ["iphone15", "applewatch"], "history": ["G0081", "CHG-APL-20W", "GRP-POP-MAG"]}
+{"user_id": "S034", "segment": "apple_premium", "devices": ["iphone15promax", "applewatch"], "history": ["WAT-AW-SPT", "G0514", "G0429"]}
+{"user_id": "S035", "segment": "apple_premium", "devices": ["iphone15", "applewatch"], "history": ["CAR-UNI-VNT", "G0502", "G0509", "G0466", "G0454", "G0514", "G0077"]}
+{"user_id": "S036", "segment": "apple_premium", "devices": ["iphone15promax", "applewatch"], "history": ["WAT-AW-SPT", "G0115", "G0436"]}
+{"user_id": "S037", "segment": "apple_premium", "devices": ["iphone14"], "history": ["G0047", "G0539", "G0036", "GRP-POP-MAG", "SCR-IP14-GLS"]}
+{"user_id": "S038", "segment": "apple_premium", "devices": ["iphone15"], "history": ["CBL-C2C-APL", "G0446", "AUD-APP-4", "G0060", "G0073", "SCR-IP15-GLS"]}
+{"user_id": "S039", "segment": "apple_premium", "devices": ["iphone14", "applewatch"], "history": ["G0525", "G0056", "G0446", "G0523", "G0465", "G0032", "G0470"]}
+{"user_id": "S040", "segment": "apple_premium", "devices": ["iphone14"], "history": ["CAR-WL-AUT", "G0050", "G0509"]}
+{"user_id": "S041", "segment": "apple_premium", "devices": ["iphone14", "applewatch"], "history": ["G0448", "G0029", "G0461", "CASE-IP14-OTB"]}
+{"user_id": "S042", "segment": "apple_premium", "devices": ["iphone15promax", "applewatch"], "history": ["G0134", "G0448", "CHG-MAG-APL", "G0126", "WAT-AW-SPT"]}
+{"user_id": "S043", "segment": "apple_premium", "devices": ["iphone15pro", "applewatch"], "history": ["G0454", "PWR-SAM-10K", "G0088", "G0461", "GRP-POP-STD"]}
+{"user_id": "S044", "segment": "apple_premium", "devices": ["iphone15"], "history": ["G0510", "CHG-MAG-BEL", "G0469"]}
+{"user_id": "S045", "segment": "apple_premium", "devices": ["iphone15", "applewatch"], "history": ["G0064", "PWR-MAG-ANK", "G0445", "G0461", "G0463", "SCR-IP15-GLS"]}
+{"user_id": "S046", "segment": "apple_premium", "devices": ["iphone15pro"], "history": ["G0099", "G0104", "G0508", "PWR-ANK-10K"]}
+{"user_id": "S047", "segment": "apple_premium", "devices": ["iphone14", "applewatch"], "history": ["G0470", "G0453", "G0519", "G0032", "G0054"]}
+{"user_id": "S048", "segment": "apple_premium", "devices": ["iphone16"], "history": ["CBL-C2C-ANK", "G0150", "G0445", "G0156", "G0429", "G0553"]}
+{"user_id": "S049", "segment": "apple_premium", "devices": ["iphone15promax"], "history": ["GRP-POP-MAG", "G0134", "CBL-C2C-APL", "G0137"]}
+{"user_id": "S050", "segment": "apple_premium", "devices": ["iphone14", "applewatch"], "history": ["G0491", "GRP-POP-MAG", "CHG-ANK-65W", "CBL-C2C-APL"]}
+{"user_id": "S051", "segment": "samsung_loyal", "devices": ["galaxys24", "galaxywatch"], "history": ["G0504", "CHG-SAM-25W", "G0546", "G0239", "GRP-POP-STD"]}
+{"user_id": "S052", "segment": "samsung_loyal", "devices": ["galaxys23", "galaxywatch"], "history": ["G0531", "G0212", "G0544", "G0509"]}
+{"user_id": "S053", "segment": "samsung_loyal", "devices": ["galaxys24ultra"], "history": ["G0277", "G0421", "G0443"]}
+{"user_id": "S054", "segment": "samsung_loyal", "devices": ["galaxys22", "galaxywatch"], "history": ["G0172", "G0507", "G0176", "WAT-GW-SPT"]}
+{"user_id": "S055", "segment": "samsung_loyal", "devices": ["galaxys24ultra", "galaxywatch"], "history": ["PWR-ANK-10K", "G0278", "G0465"]}
+{"user_id": "S056", "segment": "samsung_loyal", "devices": ["galaxys22", "galaxywatch"], "history": ["G0442", "G0190", "G0459", "PWR-SAM-10K", "G0535", "G0443"]}
+{"user_id": "S057", "segment": "samsung_loyal", "devices": ["galaxys24ultra"], "history": ["G0466", "G0495", "G0261", "G0274"]}
+{"user_id": "S058", "segment": "samsung_loyal", "devices": ["galaxys24", "galaxywatch"], "history": ["G0459", "CASE-S24-SIL", "SCR-S24-FLM", "G0232", "CHG-SAM-WL", "G0490"]}
+{"user_id": "S059", "segment": "samsung_loyal", "devices": ["galaxys24ultra"], "history": ["G0545", "G0463", "G0467", "G0273", "CBL-C2C-SAM"]}
+{"user_id": "S060", "segment": "samsung_loyal", "devices": ["galaxys24"], "history": ["G0482", "GRP-POP-STD", "G0232"]}
+{"user_id": "S061", "segment": "samsung_loyal", "devices": ["galaxys23"], "history": ["G0203", "G0200", "G0221", "G0224"]}
+{"user_id": "S062", "segment": "samsung_loyal", "devices": ["galaxys24ultra"], "history": ["G0505", "G0278", "G0425", "AUD-SAM-BUD3P", "GRP-POP-STD"]}
+{"user_id": "S063", "segment": "samsung_loyal", "devices": ["galaxya54"], "history": ["G0441", "G0322", "CBL-C2C-ANK", "AUD-SAM-BUD3P", "G0458", "G0427", "CBL-C2C-SAM"]}
+{"user_id": "S064", "segment": "samsung_loyal", "devices": ["galaxys24"], "history": ["SCR-S24-FLM", "G0552", "G0251"]}
+{"user_id": "S065", "segment": "samsung_loyal", "devices": ["galaxys22", "galaxywatch"], "history": ["G0484", "G0176", "G0172", "G0545", "G0193", "G0442"]}
+{"user_id": "S066", "segment": "samsung_loyal", "devices": ["galaxys24"], "history": ["PWR-SAM-10K", "G0546", "G0231", "G0237", "G0542"]}
+{"user_id": "S067", "segment": "samsung_loyal", "devices": ["galaxys24", "galaxywatch"], "history": ["CBL-C2C-APL", "G0467", "G0232", "SCR-S24-FLM"]}
+{"user_id": "S068", "segment": "samsung_loyal", "devices": ["galaxys23", "galaxywatch"], "history": ["G0424", "G0548", "CHG-SAM-25W", "G0530", "G0222", "G0220", "G0486"]}
+{"user_id": "S069", "segment": "samsung_loyal", "devices": ["galaxys23", "galaxywatch"], "history": ["G0200", "G0529"]}
+{"user_id": "S070", "segment": "samsung_loyal", "devices": ["galaxys23", "galaxywatch"], "history": ["G0222", "CASE-S23-OTB", "CASE-UNI-POUCH", "G0424", "CBL-C2C-APL"]}
+{"user_id": "S071", "segment": "samsung_loyal", "devices": ["galaxys24", "galaxywatch"], "history": ["AUD-SDC-LIB", "G0550", "G0441"]}
+{"user_id": "S072", "segment": "samsung_loyal", "devices": ["galaxya54"], "history": ["G0425", "G0316", "G0325", "G0548", "G0331", "G0435"]}
+{"user_id": "S073", "segment": "samsung_loyal", "devices": ["galaxya54", "galaxywatch"], "history": ["G0336", "G0334", "G0317"]}
+{"user_id": "S074", "segment": "samsung_loyal", "devices": ["galaxys23", "galaxywatch"], "history": ["PWR-GEN-20K", "G0224", "G0536"]}
+{"user_id": "S075", "segment": "samsung_loyal", "devices": ["galaxya54", "galaxywatch"], "history": ["G0315", "G0312", "G0458", "G0466", "G0467"]}
+{"user_id": "S076", "segment": "samsung_loyal", "devices": ["galaxys23"], "history": ["CHG-QI-GEN", "G0209", "G0548", "CHG-SAM-45W"]}
+{"user_id": "S077", "segment": "samsung_loyal", "devices": ["galaxys24ultra", "galaxywatch"], "history": ["G0443", "G0280", "G0554"]}
+{"user_id": "S078", "segment": "samsung_loyal", "devices": ["galaxya54", "galaxywatch"], "history": ["G0530", "G0434", "G0331", "G0325"]}
+{"user_id": "S079", "segment": "samsung_loyal", "devices": ["galaxys24ultra"], "history": ["G0462", "G0542", "G0278"]}
+{"user_id": "S080", "segment": "samsung_loyal", "devices": ["galaxya54"], "history": ["G0442", "G0482", "G0322", "CHG-GEN-20W", "G0458", "G0331"]}
+{"user_id": "S081", "segment": "samsung_loyal", "devices": ["galaxys24"], "history": ["AUD-SDC-LIB", "G0226", "G0505", "CAR-WL-AUT", "G0225", "G0243", "G0506"]}
+{"user_id": "S082", "segment": "samsung_loyal", "devices": ["galaxys23"], "history": ["CHG-SAM-WL", "CHG-SAM-25W", "G0200", "G0484"]}
+{"user_id": "S083", "segment": "samsung_loyal", "devices": ["galaxys24"], "history": ["SCR-S24-FLM", "G0248"]}
+{"user_id": "S084", "segment": "samsung_loyal", "devices": ["galaxys24ultra", "galaxywatch"], "history": ["G0459", "CHG-ANK-65W", "G0256", "G0484"]}
+{"user_id": "S085", "segment": "samsung_loyal", "devices": ["galaxys24ultra", "galaxywatch"], "history": ["G0254", "G0459", "GRP-POP-STD", "G0430", "G0256", "G0268"]}
+{"user_id": "S086", "segment": "samsung_loyal", "devices": ["galaxya54", "galaxywatch"], "history": ["G0442", "G0317", "G0536"]}
+{"user_id": "S087", "segment": "samsung_loyal", "devices": ["galaxys23"], "history": ["G0223", "G0442", "G0218"]}
+{"user_id": "S088", "segment": "samsung_loyal", "devices": ["galaxys24ultra"], "history": ["G0274", "G0280", "G0275", "G0279"]}
+{"user_id": "S089", "segment": "samsung_loyal", "devices": ["galaxys23", "galaxywatch"], "history": ["G0218", "G0485", "G0207"]}
+{"user_id": "S090", "segment": "samsung_loyal", "devices": ["galaxys24ultra", "galaxywatch"], "history": ["PWR-GEN-20K", "G0499", "WAT-GW-GEN"]}
+{"user_id": "S091", "segment": "samsung_loyal", "devices": ["galaxya54"], "history": ["G0489", "G0459", "G0333", "G0503"]}
+{"user_id": "S092", "segment": "samsung_loyal", "devices": ["galaxys24"], "history": ["CASE-S24-CLR", "G0232", "CBL-C2C-APL"]}
+{"user_id": "S093", "segment": "samsung_loyal", "devices": ["galaxys24ultra", "galaxywatch"], "history": ["G0499", "G0275", "G0265", "G0482", "G0263"]}
+{"user_id": "S094", "segment": "samsung_loyal", "devices": ["galaxys23", "galaxywatch"], "history": ["CHG-SAM-WL", "CBL-C2C-APL", "WAT-GW-SPT", "G0443"]}
+{"user_id": "S095", "segment": "samsung_loyal", "devices": ["galaxys23", "galaxywatch"], "history": ["CAR-UNI-VNT", "G0438", "CHG-SAM-25W", "G0222"]}
+{"user_id": "S096", "segment": "samsung_loyal", "devices": ["galaxys22"], "history": ["G0459", "G0190", "G0545"]}
+{"user_id": "S097", "segment": "samsung_loyal", "devices": ["galaxys23", "galaxywatch"], "history": ["CHG-SAM-45W", "G0459", "G0200", "G0508", "G0509", "CBL-C2C-ANK"]}
+{"user_id": "S098", "segment": "samsung_loyal", "devices": ["galaxys23", "galaxywatch"], "history": ["G0197", "G0219", "G0200", "G0224", "G0508"]}
+{"user_id": "S099", "segment": "samsung_loyal", "devices": ["galaxys24"], "history": ["G0252", "G0251", "G0443", "G0248", "CHG-SAM-WL", "G0437"]}
+{"user_id": "S100", "segment": "samsung_loyal", "devices": ["galaxys24ultra"], "history": ["G0272", "G0443", "G0254", "G0466", "G0275"]}
+{"user_id": "S101", "segment": "budget", "devices": ["iphone14", "applewatch"], "history": ["CAR-UNI-VNT", "G0525", "G0549", "G0049", "G0467"]}
+{"user_id": "S102", "segment": "budget", "devices": ["iphone14"], "history": ["G0474", "G0477", "G0544", "G0541", "G0435", "G0047"]}
+{"user_id": "S103", "segment": "budget", "devices": ["iphone14", "applewatch"], "history": ["G0525", "G0549", "G0490", "G0426", "G0551", "G0541"]}
+{"user_id": "S104", "segment": "budget", "devices": ["galaxya54"], "history": ["G0336", "CHG-ANK-65W", "G0312", "G0501"]}
+{"user_id": "S105", "segment": "budget", "devices": ["galaxys22"], "history": ["G0464", "G0506", "G0192", "G0542", "G0552", "G0495"]}
+{"user_id": "S106", "segment": "budget", "devices": ["galaxya15"], "history": ["G0307", "G0505", "G0290", "G0294", "G0301"]}
+{"user_id": "S107", "segment": "budget", "devices": ["iphone14"], "history": ["G0507", "G0055", "G0510", "G0505"]}
+{"user_id": "S108", "segment": "budget", "devices": ["galaxya54"], "history": ["G0335", "G0495"]}
+{"user_id": "S109", "segment": "budget", "devices": ["iphone15"], "history": ["G0082", "CHG-APL-20W", "G0464", "G0543"]}
+{"user_id": "S110", "segment": "budget", "devices": ["galaxya15"], "history": ["G0458", "CAR-UNI-VNT", "G0431", "G0307", "G0283"]}
+{"user_id": "S111", "segment": "budget", "devices": ["pixel7"], "history": ["G0554", "G0456", "CAR-UNI-VNT", "CHG-GEN-20W", "G0364"]}
+{"user_id": "S112", "segment": "budget", "devices": ["iphone15"], "history": ["G0544", "G0467", "SCR-IP15-GLS", "G0422"]}
+{"user_id": "S113", "segment": "budget", "devices": ["galaxya15"], "history": ["G0297", "G0499", "G0468", "G0492"]}
+{"user_id": "S114", "segment": "budget", "devices": ["galaxya54"], "history": ["G0332", "G0326", "G0504", "G0322", "G0459", "G0552", "G0498"]}
+{"user_id": "S115", "segment": "budget", "devices": ["galaxya54", "galaxywatch"], "history": ["G0324", "PWR-GEN-20K", "G0332", "CBL-C2C-SAM", "G0550", "G0464"]}
+{"user_id": "S116", "segment": "budget", "devices": ["iphone13"], "history": ["G0457", "G0551", "G0027", "G0015", "G0003"]}
+{"user_id": "S117", "segment": "budget", "devices": ["galaxya15"], "history": ["CAR-UNI-VNT", "G0542", "G0544", "G0421", "G0307", "G0296", "G0462"]}
+{"user_id": "S118", "segment": "budget", "devices": ["pixel7"], "history": ["G0492", "G0544", "CHG-GEN-20W", "G0469", "CAR-UNI-VNT", "G0353"]}
+{"user_id": "S119", "segment": "budget", "devices": ["iphone13"], "history": ["G0476", "G0006", "CHG-APL-20W", "G0023", "G0017", "G0426"]}
+{"user_id": "S120", "segment": "budget", "devices": ["pixel7"], "history": ["CASE-UNI-POUCH", "G0544", "CBL-C2C-ANK", "G0363", "G0496"]}
+{"user_id": "S121", "segment": "budget", "devices": ["galaxya54"], "history": ["G0469", "G0335", "G0322"]}
+{"user_id": "S122", "segment": "budget", "devices": ["iphone14"], "history": ["G0043", "G0430", "G0033", "G0470", "CBL-C2L-APL"]}
+{"user_id": "S123", "segment": "budget", "devices": ["pixel7"], "history": ["G0338", "G0355", "G0354"]}
+{"user_id": "S124", "segment": "budget", "devices": ["iphone14"], "history": ["G0041", "G0499", "G0477", "G0541"]}
+{"user_id": "S125", "segment": "budget", "devices": ["iphone15"], "history": ["G0062", "G0553", "G0467", "G0066"]}
+{"user_id": "S126", "segment": "budget", "devices": ["galaxys22"], "history": ["AUD-GEN-BUD", "G0489", "G0189", "G0547", "G0467"]}
+{"user_id": "S127", "segment": "budget", "devices": ["iphone14"], "history": ["G0051", "G0053", "G0037", "G0034"]}
+{"user_id": "S128", "segment": "budget", "devices": ["iphone13"], "history": ["G0018", "G0446", "AUD-GEN-BUD", "G0014", "G0553", "G0479"]}
+{"user_id": "S129", "segment": "budget", "devices": ["galaxys22"], "history": ["G0191", "G0469", "G0186", "G0550", "G0179", "G0170"]}
+{"user_id": "S130", "segment": "budget", "devices": ["galaxya54"], "history": ["PWR-ANK-10K", "G0314", "G0332", "G0328", "G0505", "G0333", "G0552"]}
+{"user_id": "S131", "segment": "budget", "devices": ["iphone13"], "history": ["G0027", "G0447", "G0477", "G0542", "G0546", "G0513"]}
+{"user_id": "S132", "segment": "budget", "devices": ["galaxys22"], "history": ["G0196", "CHG-APL-20W", "G0186", "G0192"]}
+{"user_id": "S133", "segment": "budget", "devices": ["iphone14"], "history": ["G0053", "G0051", "G0491"]}
+{"user_id": "S134", "segment": "budget", "devices": ["iphone15"], "history": ["G0554", "AUD-GEN-BUD", "G0069", "G0421", "G0551", "G0430"]}
+{"user_id": "S135", "segment": "budget", "devices": ["iphone15"], "history": ["G0074", "G0434", "G0071", "G0502"]}
+{"user_id": "S136", "segment": "budget", "devices": ["pixel7"], "history": ["G0421", "AUD-GEN-BUD", "G0490"]}
+{"user_id": "S137", "segment": "budget", "devices": ["iphone14"], "history": ["G0046", "G0056"]}
+{"user_id": "S138", "segment": "budget", "devices": ["iphone14"], "history": ["G0475", "G0492", "G0422", "G0540"]}
+{"user_id": "S139", "segment": "budget", "devices": ["galaxya15"], "history": ["G0297", "G0425", "G0290", "G0465"]}
+{"user_id": "S140", "segment": "budget", "devices": ["iphone13", "applewatch"], "history": ["G0544", "G0457", "G0478", "G0498"]}
+{"user_id": "S141", "segment": "budget", "devices": ["galaxya15", "galaxywatch"], "history": ["G0305", "G0307", "G0282", "G0306"]}
+{"user_id": "S142", "segment": "budget", "devices": ["pixel7", "galaxywatch"], "history": ["G0467", "G0339", "CBL-C2C-SAM"]}
+{"user_id": "S143", "segment": "budget", "devices": ["galaxys22"], "history": ["G0499", "G0195", "G0424"]}
+{"user_id": "S144", "segment": "budget", "devices": ["galaxys22"], "history": ["G0169", "G0191", "G0485", "G0193", "G0505", "PWR-ANK-10K"]}
+{"user_id": "S145", "segment": "budget", "devices": ["iphone13"], "history": ["G0018", "PWR-ANK-10K"]}
+{"user_id": "S146", "segment": "budget", "devices": ["galaxya15", "galaxywatch"], "history": ["G0492", "G0435", "G0506", "G0293", "G0282", "G0289", "G0283"]}
+{"user_id": "S147", "segment": "budget", "devices": ["iphone13"], "history": ["G0422", "G0435", "G0026", "G0476"]}
+{"user_id": "S148", "segment": "budget", "devices": ["galaxya54"], "history": ["CASE-UNI-POUCH", "G0314", "G0502", "G0430", "G0491"]}
+{"user_id": "S149", "segment": "budget", "devices": ["pixel7"], "history": ["G0357", "G0345", "G0359", "G0363"]}
+{"user_id": "S150", "segment": "budget", "devices": ["galaxys22"], "history": ["G0195", "G0491", "G0171", "G0191", "G0179"]}
+{"user_id": "S151", "segment": "multi_device", "devices": ["iphone16", "galaxys22", "galaxywatch"], "history": ["G0196", "G0195", "STD-UNI-ADJ", "G0485", "G0503"]}
+{"user_id": "S152", "segment": "multi_device", "devices": ["iphone13", "galaxya15"], "history": ["G0445", "G0498", "G0019", "G0442", "G0027", "CBL-C2C-ANK", "G0473", "G0001"]}
+{"user_id": "S153", "segment": "multi_device", "devices": ["iphone16", "galaxys23"], "history": ["G0442", "G0540", "G0435", "STD-UNI-ADJ", "G0162"]}
+{"user_id": "S154", "segment": "multi_device", "devices": ["iphone15", "galaxys24", "galaxywatch"], "history": ["G0558", "G0542", "CHG-SAM-45W", "WAT-GW-GEN", "G0461"]}
+{"user_id": "S155", "segment": "multi_device", "devices": ["iphone15promax", "galaxya15"], "history": ["G0139", "G0114", "G0447", "G0439", "G0486", "G0448", "G0452", "G0125", "CBL-C2C-SAM", "G0306"]}
+{"user_id": "S156", "segment": "multi_device", "devices": ["iphone13", "galaxya54", "applewatch"], "history": ["G0540", "G0521", "G0453", "G0332", "G0558"]}
+{"user_id": "S157", "segment": "multi_device", "devices": ["iphone15", "galaxys24", "applewatch"], "history": ["G0451", "G0520", "SCR-IP15-GLS", "G0080", "G0250", "G0450", "CASE-IP15-BUD", "G0424", "CAR-MAG-ESR", "G0494"]}
+{"user_id": "S158", "segment": "multi_device", "devices": ["iphone15", "galaxya15"], "history": ["G0078", "G0486", "G0080", "CASE-IP15-CLR"]}
+{"user_id": "S159", "segment": "multi_device", "devices": ["iphone15pro", "pixel8", "galaxywatch"], "history": ["G0513", "G0462", "G0429", "G0535", "G0466", "G0370", "G0441"]}
+{"user_id": "S160", "segment": "multi_device", "devices": ["iphone15promax", "galaxys24"], "history": ["G0510", "G0485", "G0452", "CHG-SAM-WL", "CASE-S24-SIL", "G0503"]}
+{"user_id": "S161", "segment": "multi_device", "devices": ["iphone15promax", "pixel8"], "history": ["G0461", "G0126", "G0125", "CHG-APL-20W", "G0432"]}
+{"user_id": "S162", "segment": "multi_device", "devices": ["iphone16", "galaxya15"], "history": ["G0490", "G0442", "G0445", "G0465"]}
+{"user_id": "S163", "segment": "multi_device", "devices": ["iphone14", "pixel8", "applewatch"], "history": ["G0387", "G0391", "G0030", "G0555", "G0484"]}
+{"user_id": "S164", "segment": "multi_device", "devices": ["iphone15pro", "pixel7", "applewatch"], "history": ["G0505", "CBL-C2C-APL", "AUD-APP-PRO2", "G0497", "G0346", "G0462", "G0430"]}
+{"user_id": "S165", "segment": "multi_device", "devices": ["iphone15", "pixel8"], "history": ["G0557", "AUD-SAM-BUD3P", "G0433", "G0447", "G0464", "G0510"]}
+{"user_id": "S166", "segment": "multi_device", "devices": ["iphone15", "galaxys22"], "history": ["CHG-APL-20W", "G0459", "STD-UNI-ADJ", "G0187", "G0547", "G0465"]}
+{"user_id": "S167", "segment": "multi_device", "devices": ["iphone15pro", "pixel8pro"], "history": ["G0425", "G0447", "G0429"]}
+{"user_id": "S168", "segment": "multi_device", "devices": ["iphone13", "galaxya15"], "history": ["G0288", "G0557", "STD-UNI-ADJ"]}
+{"user_id": "S169", "segment": "multi_device", "devices": ["iphone15", "galaxya15"], "history": ["G0432", "G0069", "G0558", "G0061"]}
+{"user_id": "S170", "segment": "multi_device", "devices": ["iphone16", "galaxys24ultra"], "history": ["STD-UNI-ADJ", "G0505", "G0496", "G0449"]}
+{"user_id": "S171", "segment": "multi_device", "devices": ["iphone14", "pixel8"], "history": ["G0036", "CHG-ANK-65W", "G0381", "G0538"]}
+{"user_id": "S172", "segment": "multi_device", "devices": ["iphone15pro", "galaxya15", "galaxywatch"], "history": ["G0557", "G0529", "G0299", "AUD-SAM-FE"]}
+{"user_id": "S173", "segment": "multi_device", "devices": ["iphone15", "pixel7"], "history": ["PWR-MAG-ANK", "G0429", "G0057", "CASE-UNI-POUCH", "G0084"]}
+{"user_id": "S174", "segment": "multi_device", "devices": ["iphone14", "galaxys23", "applewatch"], "history": ["AUD-SAM-BUD3P", "G0488", "G0214", "G0445", "G0513", "G0451", "CHG-SAM-45W"]}
+{"user_id": "S175", "segment": "multi_device", "devices": ["iphone16", "galaxys24"], "history": ["G0446", "G0468", "G0489", "G0251", "G0248", "G0160", "AUD-SNY-XM5"]}
+{"user_id": "S176", "segment": "multi_device", "devices": ["iphone16", "pixel8pro"], "history": ["G0438", "G0448", "G0398", "G0453"]}
+{"user_id": "S177", "segment": "multi_device", "devices": ["iphone15", "galaxys22"], "history": ["G0487", "G0181", "G0061", "CHG-APL-20W", "G0084", "STD-UNI-ADJ", "G0189", "G0442", "G0438"]}
+{"user_id": "S178", "segment": "multi_device", "devices": ["iphone13", "pixel8pro"], "history": ["G0416", "G0492", "G0490", "G0543", "G0024", "G0474", "G0510", "G0458"]}
+{"user_id": "S179", "segment": "multi_device", "devices": ["iphone14", "galaxya54", "galaxywatch"], "history": ["G0476", "CHG-APL-20W", "G0335", "G0439", "G0472", "AUD-SAM-BUD3P", "G0422", "G0324"]}
+{"user_id": "S180", "segment": "multi_device", "devices": ["iphone15", "galaxya54", "applewatch"], "history": ["G0463", "G0509", "CHG-MAG-BEL"]}
+{"user_id": "S181", "segment": "multi_device", "devices": ["iphone13", "galaxys24ultra"], "history": ["G0556", "G0428", "G0473", "G0511"]}
+{"user_id": "S182", "segment": "multi_device", "devices": ["iphone16", "galaxys23", "galaxywatch"], "history": ["G0499", "G0439", "G0459", "G0141", "WAT-GW-SPT", "G0486", "CBL-C2C-SAM"]}
+{"user_id": "S183", "segment": "multi_device", "devices": ["iphone13", "galaxya54", "galaxywatch"], "history": ["G0440", "AUD-GEN-BUD", "G0557", "G0429", "G0453"]}
+{"user_id": "S184", "segment": "multi_device", "devices": ["iphone14", "galaxys24ultra", "applewatch"], "history": ["G0521", "G0272", "G0423", "PWR-GEN-20K", "G0054", "G0454", "CHG-GEN-20W", "G0465"]}
+{"user_id": "S185", "segment": "multi_device", "devices": ["iphone14", "pixel8", "galaxywatch"], "history": ["G0471", "G0380", "G0429", "G0558", "G0048", "G0493"]}
+{"user_id": "S186", "segment": "multi_device", "devices": ["iphone16", "galaxys24"], "history": ["G0445", "CBL-C2C-APL", "CASE-S24-CLR", "G0230"]}
+{"user_id": "S187", "segment": "multi_device", "devices": ["iphone15pro", "galaxys23"], "history": ["G0093", "G0502", "G0453", "G0108", "G0468", "G0464", "STD-UNI-ADJ"]}
+{"user_id": "S188", "segment": "multi_device", "devices": ["iphone15promax", "galaxya54"], "history": ["G0137", "AUD-APP-PRO2", "G0510", "G0486"]}
+{"user_id": "S189", "segment": "multi_device", "devices": ["iphone16", "pixel8"], "history": ["G0422", "CHG-APL-20W"]}
+{"user_id": "S190", "segment": "multi_device", "devices": ["iphone13", "galaxys24ultra"], "history": ["G0257", "G0447", "G0271", "AUD-APP-4", "G0001", "G0445", "G0446", "G0276", "G0443"]}
+{"user_id": "S191", "segment": "multi_device", "devices": ["iphone16", "galaxys24ultra"], "history": ["CHG-APL-20W", "G0540", "G0464", "G0268", "G0453", "G0255", "G0556"]}
+{"user_id": "S192", "segment": "multi_device", "devices": ["iphone15", "galaxys22", "applewatch"], "history": ["G0462", "CAR-MAG-ESR", "AUD-SAM-BUD3P"]}
+{"user_id": "S193", "segment": "multi_device", "devices": ["iphone14", "galaxys24"], "history": ["G0051", "G0510", "G0486", "G0054", "G0432", "CHG-SAM-25W"]}
+{"user_id": "S194", "segment": "multi_device", "devices": ["iphone16", "galaxys23", "galaxywatch"], "history": ["G0557", "G0556", "G0548", "G0448", "STD-UNI-ADJ", "AUD-APP-4", "G0168", "G0469", "G0154"]}
+{"user_id": "S195", "segment": "multi_device", "devices": ["iphone15promax", "galaxya54"], "history": ["G0130", "G0431", "G0501", "G0486", "G0309", "CHG-ANK-65W", "PWR-SAM-10K", "G0498", "CAR-UNI-VNT"]}
+{"user_id": "S196", "segment": "multi_device", "devices": ["iphone15promax", "galaxya54"], "history": ["G0321", "G0310", "CHG-GEN-20W"]}
+{"user_id": "S197", "segment": "multi_device", "devices": ["iphone15", "galaxys23"], "history": ["G0491", "G0512", "G0218", "G0556", "G0469", "CHG-SAM-25W"]}
+{"user_id": "S198", "segment": "multi_device", "devices": ["iphone15pro", "pixel8", "applewatch"], "history": ["G0467", "CBL-C2C-SAM", "G0512", "G0557", "G0454"]}
+{"user_id": "S199", "segment": "multi_device", "devices": ["iphone15", "galaxys22"], "history": ["G0512", "G0496", "G0542", "SCR-IP15-GLS", "G0468", "CBL-C2C-APL", "G0181", "G0453", "G0510"]}
+{"user_id": "S200", "segment": "multi_device", "devices": ["iphone14", "galaxys23"], "history": ["CAR-UNI-VNT", "CAR-WL-AUT", "G0479", "CHG-SAM-45W", "G0428", "G0558", "G0501"]}

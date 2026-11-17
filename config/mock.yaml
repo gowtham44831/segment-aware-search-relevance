@@ -1,0 +1,53 @@
+# relkit config for the mock phone-accessories store.
+# Copy this file for your own store and change the paths, column mappings,
+# engines and judge. Paths are relative to the repo root.
+
+project: Mock phone accessories store
+store: An online store selling phone and wearable accessories   # told to the LLM judge
+
+catalog:
+  path: data/mock/catalog.csv
+  # Map our field names to your column names if they differ, e.g.
+  # columns: {product_id: sku, title: name, price: list_price, category: leaf_category}
+  columns: {}
+
+segments: data/mock/segments.yaml
+users:
+  path: data/mock/users.jsonl          # user_id, segment, optional devices / history
+  # purchases: {path: data/orders.csv, columns: {product_id: sku, timestamp: order_ts}}
+  # history_len: 20
+queries:
+  path: data/mock/queries.csv          # query_id, user_id, query (e.g. sampled from search logs)
+
+engines:                               # the search systems to compare
+  - {name: lexical_bm25, type: bm25}
+  - {name: personalised_bm25, type: bm25_personal, device_boost: 3.0}
+  - {name: bestsellers, type: popularity}
+  # Your engines:
+  # - {name: prod_search, type: http, url: "https://search.internal/v1?q={query}&user={user_id}&n={k}",
+  #    ids_path: "results[].sku", headers: {Authorization: "$SEARCH_TOKEN"}}
+  # - {name: logged_results, type: results_file, path: data/results.csv}   # query_id, rank, product_id
+  # - {name: candidate_model, type: python, class: "my_search:CandidateModel"}
+baseline_engine: lexical_bm25
+top_k: 10
+
+judge:
+  type: rules            # rules = offline, free, for testing | llm = real measurement
+  # LLM settings (used when type: llm). Any OpenAI-compatible endpoint works.
+  model: gpt-4.1-mini
+  base_url: https://api.openai.com/v1   # Ollama: http://localhost:11434/v1, api_key_env: ""
+  api_key_env: OPENAI_API_KEY           # read from the environment or .env, never stored here
+  temperature: 0
+  structured: json_schema               # json_schema | json_object | none
+  workers: 8
+  history_items: 5                      # recent purchases shown in history mode
+  include_segment: false                # add the segment persona on top of history (didn't help in our study)
+
+modes: [generic, segment, history]      # who the judge grades for
+report_mode: history                    # which mode drives the headline scorecard
+
+golden: data/mock/golden.csv            # hand-labelled cases: query, product_id, context, grade
+interactions: data/mock/interactions.csv  # real choices: user_id, query, shown (a;b;c), chosen
+gate: {min_kappa: 0.6}                  # judge must agree with golden labels at least this well
+
+output_dir: out/mock

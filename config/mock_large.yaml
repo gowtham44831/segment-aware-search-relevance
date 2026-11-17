@@ -1,0 +1,51 @@
+# Large mock store: 4 segment judges x 1,000 searches each.
+# Each judge is built from its segment's data (segment_profiles: auto) and its
+# keyword set is the searches its shoppers ran. Paths are relative to the repo root.
+
+project: Mock phone accessories store (large)
+store: An online store selling phone and wearable accessories   # told to the LLM judge
+
+catalog: {path: data/mock_large/catalog.csv}
+devices: data/mock_large/devices.yaml       # device names shoppers type in searches (optional)
+segments: data/mock_large/segments.yaml
+segment_profiles: auto                      # build each judge's persona from its shoppers' data
+users: {path: data/mock_large/users.jsonl}
+queries: {path: data/mock_large/queries.csv}   # query_id, user_id, segment, query
+
+engines:
+  - {name: keyword_bm25, type: bm25}
+  - {name: hybrid_expanded, type: expanded}                       # typo fixing + synonyms (semantic stand-in)
+  - {name: hybrid_personalised, type: expanded, device_boost: 3.0}
+  - {name: bestsellers, type: popularity}
+baseline_engine: keyword_bm25
+
+top_k: 10               # results a shopper sees; metrics are @10
+pool_depth: 20          # each engine's top 20 are pooled and graded to find all relevant products (recall)
+relevant_grade: 2       # grade >= 2 counts as relevant
+max_searches_per_judge: 200   # cap for a cheaper first LLM run
+
+judge:
+  type: rules
+  model: gpt-4.1-mini
+  base_url: https://api.openai.com/v1
+  api_key_env: OPENAI_API_KEY
+  temperature: 0
+  structured: json_schema
+  workers: 8
+  batch_size: 10        # LLM grades up to 10 products per call (same search and shopper)
+  history_items: 5
+  # Store-specific rules for the LLM judge (optional). Changing them re-grades (new cache key).
+  # guidelines: |
+  #   - iPhone 15 and 16 use USB-C; iPhone 14 and earlier use Lightning.
+  #   - A case or screen protector for a different phone model (e.g. 15 vs 15 Pro Max) does not fit: grade 0.
+  price_in_per_m: 0.40  # USD per million tokens, for `estimate`
+  price_out_per_m: 1.60
+
+modes: [generic, segment, history]
+report_mode: history
+
+golden: data/mock_large/golden.csv
+interactions: data/mock_large/interactions.csv
+gate: {min_kappa: 0.6}
+
+output_dir: out/mock_large

@@ -1,0 +1,24 @@
+apple_premium:
+  name: Apple premium mainstream
+  description: Owns an iPhone and often an Apple Watch. Prefers official Apple or well-known brands, pays
+    for quality, values MagSafe and fit with the Apple ecosystem.
+  price_sensitivity: low
+  ecosystem: apple
+samsung_loyal:
+  name: Samsung loyalists
+  description: Owns a Samsung Galaxy phone and often a Galaxy Watch. Prefers Samsung or brands made for
+    Galaxy, mid-range prices.
+  price_sensitivity: medium
+  ecosystem: samsung
+budget:
+  name: Budget hunters
+  description: Mixed devices. Looks for low prices and multi-packs but still wants well-reviewed items
+    that fit their phone.
+  price_sensitivity: high
+  ecosystem: mixed
+multi_device:
+  name: Frequent multi-device buyers
+  description: Buys often for several devices (e.g. an iPhone and a Galaxy in one household). Brand-neutral,
+    mid-to-high spend, values universal and multi-device accessories.
+  price_sensitivity: medium
+  ecosystem: mixed

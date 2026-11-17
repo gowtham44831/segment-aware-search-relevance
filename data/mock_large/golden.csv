@@ -1,0 +1,60 @@
+query,product_id,context,grade,note
+phone case,CASE-IP15-CLR,generic,3,A phone case; device unknown
+phone case,CHARM-CASE,generic,1,Accessory for a case; not a case
+phone case,PHN-SAM-A15,generic,0,A phone; not a case
+phone case,CASE-IPAD-10,generic,1,Same kind of item for a tablet
+charger,CHG-APL-20W,generic,3,A wall charger
+charger,CBL-C2C-ANK,generic,1,Cable; goes with a charger
+earbuds,AUD-GEN-BUD,generic,3,Earbuds
+screen protector,CASE-S24-CLR,generic,1,Case; complement
+wireless charger,CHG-QI-GEN,generic,3,Universal wireless charger
+watch band,WAT-AW-SPT,generic,3,A watch band
+usb c cable,CBL-MICRO-GEN,generic,0,Wrong connector
+power bank,PWR-ANK-10K,generic,3,A power bank
+phone case,CASE-S24-SIL,segment:apple_premium,0,Does not fit an iPhone
+phone case,CASE-IP15-SIL,segment:apple_premium,3,Official Apple case
+phone case,CASE-IP15-BUD,segment:apple_premium,2,Fits but cheap generic brand
+phone case,CASE-S24-SIL,segment:samsung_loyal,3,Official Samsung case
+phone case,CASE-IP15-CLR,segment:samsung_loyal,0,iPhone case
+charger,CHG-SAM-45W,segment:samsung_loyal,3,Samsung fast charger
+charger,CHG-SAM-45W,segment:apple_premium,1,Made for Galaxy
+earbuds,AUD-APP-PRO2,segment:apple_premium,3,AirPods for iPhone owner
+earbuds,AUD-APP-PRO2,segment:budget,1,Far over budget
+earbuds,AUD-GEN-BUD,segment:budget,3,Cheap and well reviewed
+earbuds,AUD-GEN-BUD,segment:apple_premium,1,Cheap generic for a premium buyer
+earbuds,AUD-SAM-BUD3P,segment:samsung_loyal,3,Galaxy Buds
+cheap phone case,CASE-IP14-OTB,segment:budget,1,Right type but expensive
+wireless charger,CHG-MAG-APL,segment:samsung_loyal,0,MagSafe is iPhone only
+wireless charger,CHG-SAM-WL,segment:samsung_loyal,3,Samsung wireless charger
+wireless charger,CHG-QI-GEN,segment:multi_device,3,Works with every device
+watch band,WAT-GW-GEN,segment:apple_premium,0,Galaxy Watch band
+power bank,PWR-GEN-20K,segment:budget,3,Cheap high capacity
+power bank,PWR-MAG-ANK,segment:samsung_loyal,0,Magnetic iPhone battery
+phone case,CASE-IP15PM-CLR,user:U01,0,Pro Max case does not fit iPhone 15
+phone case,CASE-IP15-SIL,user:U04,0,iPhone 15 case does not fit Pro Max
+phone case,CASE-IP15PM-CLR,user:U04,3,Fits their Pro Max
+charging cable,CBL-C2L-APL,user:U03,3,Lightning cable for iPhone 14
+charging cable,CBL-C2C-APL,user:U03,0,USB-C cable does not fit iPhone 14
+charging cable,CBL-C2L-GEN,user:U11,3,Cheap Lightning cable for iPhone 14
+screen protector,SCR-IP14-GLS,user:U11,3,Fits iPhone 14
+screen protector,SCR-IP15-GLS,user:U11,0,Wrong model
+phone case,CASE-PX8-CLR,user:U13,3,Fits Pixel 8
+phone case,CASE-S24-BUD,user:U13,0,Wrong phone
+phone case,CASE-IP15-CLR,user:U16,3,Fits one of their phones
+phone case,CASE-S24-CLR,user:U16,3,Fits one of their phones
+phone case,CASE-S23-OTB,user:U16,0,They have S24 not S23
+watch band,WAT-GW-SPT,user:U20,3,Galaxy Watch owner
+watch band,WAT-AW-SPT,user:U20,0,No Apple Watch
+watch band,WAT-AW-GEN,user:U17,3,Apple Watch owner; brand neutral
+usb c cable,CBL-MICRO-GEN,user:U15,0,Wrong connector
+usb c cable,CBL-C2C-ANK,user:U15,3,Cheap USB-C cable
+car mount,CAR-MAG-ESR,user:U06,0,MagSafe mount on a Galaxy
+car mount,CAR-MAG-ESR,user:U01,3,MagSafe iPhone 15
+car mount,CAR-UNI-VNT,user:U06,3,Universal mount
+screen protector,SCR-S24-GLS,user:U06,3,Fits S24
+screen protector,SCR-S24-GLS,user:U10,0,They have S23
+cheap earbuds,AUD-SNY-XM5,user:U15,1,Right type but premium price
+fast charger,CHG-SAM-45W,user:U07,3,Samsung fast charger for S24
+earbuds,AUD-SAM-BUD3P,user:U07,3,Galaxy owner
+phone grip,GRP-POP-MAG,user:U09,0,MagSafe grip on a Galaxy
+phone grip,GRP-POP-STD,user:U09,3,Universal grip

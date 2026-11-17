@@ -1,0 +1,3 @@
+pyyaml>=6.0
+numpy>=1.22
+# optional: pandas + pyarrow to read .parquet catalogs; pytest to run tests

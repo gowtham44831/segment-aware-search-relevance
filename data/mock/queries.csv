@@ -1,0 +1,81 @@
+query_id,user_id,query
+Q001,U01,phone case
+Q002,U01,screen protector
+Q003,U01,car mount
+Q004,U01,power bank
+Q005,U02,wireless charger
+Q006,U02,phone case
+Q007,U02,earbuds
+Q008,U02,phone grip
+Q009,U03,charging cable
+Q010,U03,screen protector
+Q011,U03,watch band
+Q012,U03,magsafe charger
+Q013,U04,phone case
+Q014,U04,car mount
+Q015,U04,fast charger
+Q016,U04,power bank
+Q017,U05,watch band
+Q018,U05,earbuds
+Q019,U05,wireless charger
+Q020,U05,usb c cable
+Q021,U06,phone case
+Q022,U06,screen protector
+Q023,U06,power bank
+Q024,U06,car mount
+Q025,U07,fast charger
+Q026,U07,wireless charger
+Q027,U07,earbuds
+Q028,U07,phone case
+Q029,U08,watch band
+Q030,U08,phone case
+Q031,U08,usb c cable
+Q032,U08,wireless charger
+Q033,U09,screen protector
+Q034,U09,earbuds
+Q035,U09,charger
+Q036,U09,phone grip
+Q037,U10,phone case
+Q038,U10,car mount
+Q039,U10,fast charger
+Q040,U10,screen protector
+Q041,U11,cheap phone case
+Q042,U11,charging cable
+Q043,U11,earbuds
+Q044,U11,screen protector
+Q045,U12,phone case
+Q046,U12,screen protector
+Q047,U12,power bank
+Q048,U12,charger
+Q049,U13,screen protector
+Q050,U13,phone case
+Q051,U13,wireless charger
+Q052,U13,earbuds
+Q053,U14,watch band
+Q054,U14,charger
+Q055,U14,car mount
+Q056,U14,phone case
+Q057,U15,cheap earbuds
+Q058,U15,phone case
+Q059,U15,usb c cable
+Q060,U15,watch band
+Q061,U16,wireless charger
+Q062,U16,phone case
+Q063,U16,car mount
+Q064,U16,screen protector
+Q065,U17,charging cable
+Q066,U17,watch band
+Q067,U17,power bank
+Q068,U17,phone case
+Q069,U18,fast charger
+Q070,U18,earbuds
+Q071,U18,phone stand
+Q072,U18,screen protector
+Q073,U19,phone case
+Q074,U19,power bank
+Q075,U19,usb c cable
+Q076,U19,earbuds
+Q077,U20,watch band
+Q078,U20,car mount
+Q079,U20,charger
+Q080,U20,screen protector
