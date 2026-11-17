@@ -1,6 +1,6 @@
 # Usage guide: tips and tricks
 
-Practical advice for running relkit on your own store, collected from building and running it. The README
+Practical advice for running Segment-Aware Search Relevance (`relkit`) on your own store, collected from building and running it. The README
 covers installation and configuration; this page covers how to get trustworthy numbers at a sensible cost.
 
 ## The workflow in one picture
@@ -138,7 +138,7 @@ fairly.
 - **Monthly:** refresh the keyword sample and rerun `calibrate`. Catalogs, shoppers and model versions drift.
 - **In CI:** `python -m relkit validate --config ... --strict`. It fails the build if the judge stops
   agreeing with the golden labels.
-- **Big decisions:** confirm with an A/B test. relkit tells you where to look and what to expect; it doesn't
+- **Big decisions:** confirm with an A/B test. The tool tells you where to look and what to expect; it doesn't
   replace live traffic.
 
 ## 9. Privacy and security

@@ -1,7 +1,8 @@
-# relkit: segment-aware search relevance measurement
+# Segment-Aware Search Relevance
 
-relkit measures how relevant your search results are **for your own customer segments**, with the
+Measure how relevant your search results are **for your own customer segments**, with the
 numbers search teams use: precision, recall, nDCG, MRR, zero-result rate and irrelevant rate.
+The command-line tool and Python package are called `relkit`.
 
 1. **Judges are built from your data.** Each customer segment becomes one LLM judge. Its profile
    (devices, price position, favourite brands and categories, typical purchases) is computed from the
@@ -10,7 +11,7 @@ numbers search teams use: precision, recall, nDCG, MRR, zero-result rate and irr
    sampled from search logs.
 3. **Every keyword is replayed against every engine.** Each returned product (ID, title, description,
    price and other attributes) is graded 0–3 for the shopper who searched, with a reason.
-4. **Recall needs every relevant product, not just those returned.** relkit pools each engine's top 20
+4. **Recall needs every relevant product, not just those returned.** The tool pools each engine's top 20
    per search and grades them all (standard TREC-style pooling). Recall@10 is measured against
    everything relevant that any engine found.
 
@@ -21,9 +22,9 @@ numbers search teams use: precision, recall, nDCG, MRR, zero-result rate and irr
 | 1 | Related or complementary, not what they meant |
 | 0 | Irrelevant, or won't work for this shopper |
 
-relkit comes from our study *Personas or Purchase History?* (phone accessories and video games, public
+The tool comes from our study *Personas or Purchase History?* (phone accessories and video games, public
 Amazon data). There, judging with each shopper's **own recent history** matched real purchases better than
-segment personas or a generic judge. relkit supports all three modes so you can check this on your own data.
+segment personas or a generic judge. It supports all three modes so you can check this on your own data.
 
 **Docs:** [Results on the mock store](docs/RESULTS.md) · [Usage guide: tips and tricks](docs/GUIDE.md)
 

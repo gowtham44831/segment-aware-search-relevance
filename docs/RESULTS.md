@@ -1,6 +1,6 @@
 # Results on the mock store
 
-This page documents what relkit produces on the included **mock** phone-accessories store, using both
+This page documents what the tool produces on the included **mock** phone-accessories store, using both
 judges: the free offline rules judge and an LLM judge (gpt-4.1-mini). Everything here is invented data. These
 numbers show **how the tool behaves and how to read its output**; they are not evidence about real shoppers.
 For evidence on real customers, see the study this tool is based on: *Personas or Purchase History?*
